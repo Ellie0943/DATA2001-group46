@@ -1,0 +1,801 @@
+measure_code,parent_description,description,2011,2016,2019,2020,2021,2022,2023,2024,data_points_available
+ERP_P_20,Estimated resident population - year ended 30 June,Estimated resident population (no.),59.9,60.9,8046748.0,8110610.0,8097062.0,8166704.0,8341199.0,8479314.0,6
+ERP_21,Estimated resident population - year ended 30 June,Population density (persons/km2),59.9,60.9,10.0,10.1,10.1,10.2,10.4,10.6,6
+ERP_M_20,Estimated resident population - year ended 30 June,Estimated resident population - males (no.),59.9,60.9,3999452.0,4030710.0,4025393.0,4059763.0,4149032.0,4217861.0,6
+ERP_F_20,Estimated resident population - year ended 30 June,Estimated resident population - females (no.),59.9,60.9,4047296.0,4079900.0,4071669.0,4106941.0,4192167.0,4261453.0,6
+ERP_19,Estimated resident population - year ended 30 June,Median age - males (years),59.9,60.9,36.8,37.2,37.7,37.7,37.5,37.5,6
+ERP_22,Estimated resident population - year ended 30 June,Median age - females (years),59.9,60.9,38.6,39.0,39.5,39.6,39.4,39.4,6
+ERP_23,Estimated resident population - year ended 30 June,Median age - persons (years),59.9,60.9,37.7,38.1,38.6,38.7,38.4,38.4,6
+ERP_18,Estimated resident population - year ended 30 June,Working age population (aged 15-64 years) (no.),59.9,60.9,5240576.0,5255515.0,5209700.0,5247219.0,5388091.0,5490199.0,6
+ERP_17,Estimated resident population - year ended 30 June,Working age population (aged 15-64 years) (%),59.9,60.9,65.1,64.8,64.3,64.3,64.6,64.7,6
+ERP_M_2,Estimated resident population - Males - year ended 30 June,Males - 0-4 years (no.),59.9,60.9,253365.0,250224.0,246488.0,247060.0,246330.0,243455.0,6
+ERP_M_3,Estimated resident population - Males - year ended 30 June,Males - 5-9 years (no.),59.9,60.9,262031.0,261782.0,261143.0,258772.0,256724.0,255976.0,6
+ERP_M_4,Estimated resident population - Males - year ended 30 June,Males - 10-14 years (no.),59.9,60.9,252185.0,257935.0,261630.0,263743.0,265954.0,267114.0,6
+ERP_M_5,Estimated resident population - Males - year ended 30 June,Males - 15-19 years (no.),59.9,60.9,244004.0,241491.0,238716.0,248468.0,259831.0,265979.0,6
+ERP_M_6,Estimated resident population - Males - year ended 30 June,Males - 20-24 years (no.),59.9,60.9,282850.0,276091.0,263020.0,268004.0,287712.0,298284.0,6
+ERP_M_7,Estimated resident population - Males - year ended 30 June,Males - 25-29 years (no.),59.9,60.9,303569.0,299182.0,286918.0,286780.0,303510.0,315585.0,6
+ERP_M_8,Estimated resident population - Males - year ended 30 June,Males - 30-34 years (no.),59.9,60.9,296769.0,299129.0,295922.0,296203.0,306459.0,312961.0,6
+ERP_M_9,Estimated resident population - Males - year ended 30 June,Males - 35-39 years (no.),59.9,60.9,282828.0,289492.0,292156.0,292665.0,296977.0,302006.0,6
+ERP_M_10,Estimated resident population - Males - year ended 30 June,Males - 40-44 years (no.),59.9,60.9,250782.0,253126.0,257741.0,264203.0,275142.0,284658.0,6
+ERP_M_11,Estimated resident population - Males - year ended 30 June,Males - 45-49 years (no.),59.9,60.9,260244.0,261043.0,256646.0,250766.0,248418.0,248748.0,6
+ERP_M_12,Estimated resident population - Males - year ended 30 June,Males - 50-54 years (no.),59.9,60.9,235380.0,238082.0,244279.0,249894.0,254407.0,256312.0,6
+ERP_M_13,Estimated resident population - Males - year ended 30 June,Males - 55-59 years (no.),59.9,60.9,243549.0,244232.0,241583.0,236501.0,232030.0,230624.0,6
+ERP_M_14,Estimated resident population - Males - year ended 30 June,Males - 60-64 years (no.),59.9,60.9,217330.0,223003.0,226979.0,230524.0,233689.0,235880.0,6
+ERP_M_15,Estimated resident population - Males - year ended 30 June,Males - 65-69 years (no.),59.9,60.9,191220.0,195022.0,196703.0,199400.0,202411.0,206323.0,6
+ERP_M_16,Estimated resident population - Males - year ended 30 June,Males - 70-74 years (no.),59.9,60.9,167536.0,173785.0,177431.0,175241.0,175495.0,177108.0,6
+ERP_M_17,Estimated resident population - Males - year ended 30 June,Males - 75-79 years (no.),59.9,60.9,114429.0,120201.0,125832.0,134812.0,142753.0,147973.0,6
+ERP_M_18,Estimated resident population - Males - year ended 30 June,Males - 80-84 years (no.),59.9,60.9,75549.0,79230.0,82010.0,84516.0,86940.0,91514.0,6
+ERP_M_19,Estimated resident population - Males - year ended 30 June,Males - 85 and over (no.),59.9,60.9,65832.0,67660.0,70196.0,72211.0,74250.0,77361.0,6
+ERP_M_21,Estimated resident population - Males - year ended 30 June,Males - 0-4 years (%),59.9,60.9,6.3,6.2,6.1,6.1,5.9,5.8,6
+ERP_M_22,Estimated resident population - Males - year ended 30 June,Males - 5-9 years (%),59.9,60.9,6.6,6.5,6.5,6.4,6.2,6.1,6
+ERP_M_23,Estimated resident population - Males - year ended 30 June,Males - 10-14 years (%),59.9,60.9,6.3,6.4,6.5,6.5,6.4,6.3,6
+ERP_M_24,Estimated resident population - Males - year ended 30 June,Males - 15-19 years (%),59.9,60.9,6.1,6.0,5.9,6.1,6.3,6.3,6
+ERP_M_25,Estimated resident population - Males - year ended 30 June,Males - 20-24 years (%),59.9,60.9,7.1,6.8,6.5,6.6,6.9,7.1,6
+ERP_M_26,Estimated resident population - Males - year ended 30 June,Males - 25-29 years (%),59.9,60.9,7.6,7.4,7.1,7.1,7.3,7.5,6
+ERP_M_27,Estimated resident population - Males - year ended 30 June,Males - 30-34 years (%),59.9,60.9,7.4,7.4,7.4,7.3,7.4,7.4,6
+ERP_M_28,Estimated resident population - Males - year ended 30 June,Males - 35-39 years (%),59.9,60.9,7.1,7.2,7.3,7.2,7.2,7.2,6
+ERP_M_29,Estimated resident population - Males - year ended 30 June,Males - 40-44 years (%),59.9,60.9,6.3,6.3,6.4,6.5,6.6,6.7,6
+ERP_M_30,Estimated resident population - Males - year ended 30 June,Males - 45-49 years (%),59.9,60.9,6.5,6.5,6.4,6.2,6.0,5.9,6
+ERP_M_31,Estimated resident population - Males - year ended 30 June,Males - 50-54 years (%),59.9,60.9,5.9,5.9,6.1,6.2,6.1,6.1,6
+ERP_M_32,Estimated resident population - Males - year ended 30 June,Males - 55-59 years (%),59.9,60.9,6.1,6.1,6.0,5.8,5.6,5.5,6
+ERP_M_33,Estimated resident population - Males - year ended 30 June,Males - 60-64 years (%),59.9,60.9,5.4,5.5,5.6,5.7,5.6,5.6,6
+ERP_M_34,Estimated resident population - Males - year ended 30 June,Males - 65-69 years (%),59.9,60.9,4.8,4.8,4.9,4.9,4.9,4.9,6
+ERP_M_35,Estimated resident population - Males - year ended 30 June,Males - 70-74 years (%),59.9,60.9,4.2,4.3,4.4,4.3,4.2,4.2,6
+ERP_M_36,Estimated resident population - Males - year ended 30 June,Males - 75-79 years (%),59.9,60.9,2.9,3.0,3.1,3.3,3.4,3.5,6
+ERP_M_37,Estimated resident population - Males - year ended 30 June,Males - 80-84 years (%),59.9,60.9,1.9,2.0,2.0,2.1,2.1,2.2,6
+ERP_M_38,Estimated resident population - Males - year ended 30 June,Males - 85 and over (%),59.9,60.9,1.6,1.7,1.7,1.8,1.8,1.8,6
+ERP_F_2,Estimated resident population - Females - year ended 30 June,Females - 0-4 years (no.),59.9,60.9,238785.0,235778.0,232193.0,232951.0,231819.0,229885.0,6
+ERP_F_3,Estimated resident population - Females - year ended 30 June,Females - 5-9 years (no.),59.9,60.9,247598.0,246598.0,245467.0,243580.0,242236.0,240983.0,6
+ERP_F_4,Estimated resident population - Females - year ended 30 June,Females - 10-14 years (no.),59.9,60.9,237747.0,243524.0,246768.0,248854.0,250354.0,251615.0,6
+ERP_F_5,Estimated resident population - Females - year ended 30 June,Females - 15-19 years (no.),59.9,60.9,227336.0,224626.0,222554.0,230886.0,241399.0,248781.0,6
+ERP_F_6,Estimated resident population - Females - year ended 30 June,Females - 20-24 years (no.),59.9,60.9,266364.0,258376.0,243734.0,245736.0,260855.0,268272.0,6
+ERP_F_7,Estimated resident population - Females - year ended 30 June,Females - 25-29 years (no.),59.9,60.9,298821.0,294737.0,281425.0,279539.0,294930.0,305629.0,6
+ERP_F_8,Estimated resident population - Females - year ended 30 June,Females - 30-34 years (no.),59.9,60.9,299912.0,302029.0,300607.0,301289.0,309923.0,315231.0,6
+ERP_F_9,Estimated resident population - Females - year ended 30 June,Females - 35-39 years (no.),59.9,60.9,283729.0,290456.0,293027.0,295571.0,300792.0,305920.0,6
+ERP_F_10,Estimated resident population - Females - year ended 30 June,Females - 40-44 years (no.),59.9,60.9,254373.0,257525.0,263153.0,269356.0,278747.0,287072.0,6
+ERP_F_11,Estimated resident population - Females - year ended 30 June,Females - 45-49 years (no.),59.9,60.9,266926.0,266456.0,260715.0,255656.0,254226.0,255723.0,6
+ERP_F_12,Estimated resident population - Females - year ended 30 June,Females - 50-54 years (no.),59.9,60.9,243384.0,246041.0,252243.0,258756.0,263151.0,264780.0,6
+ERP_F_13,Estimated resident population - Females - year ended 30 June,Females - 55-59 years (no.),59.9,60.9,252267.0,253282.0,247965.0,243280.0,239775.0,239652.0,6
+ERP_F_14,Estimated resident population - Females - year ended 30 June,Females - 60-64 years (no.),59.9,60.9,230159.0,237116.0,240317.0,243142.0,246118.0,248102.0,6
+ERP_F_15,Estimated resident population - Females - year ended 30 June,Females - 65-69 years (no.),59.9,60.9,202514.0,208404.0,211037.0,214574.0,218981.0,223747.0,6
+ERP_F_16,Estimated resident population - Females - year ended 30 June,Females - 70-74 years (no.),59.9,60.9,174630.0,182150.0,187796.0,187660.0,190254.0,193511.0,6
+ERP_F_17,Estimated resident population - Females - year ended 30 June,Females - 75-79 years (no.),59.9,60.9,124323.0,130194.0,135708.0,145664.0,154534.0,161215.0,6
+ERP_F_18,Estimated resident population - Females - year ended 30 June,Females - 80-84 years (no.),59.9,60.9,92119.0,94962.0,97173.0,99280.0,101563.0,106078.0,6
+ERP_F_19,Estimated resident population - Females - year ended 30 June,Females - 85 and over (no.),59.9,60.9,106309.0,107646.0,109787.0,111167.0,112510.0,115257.0,6
+ERP_F_21,Estimated resident population - Females - year ended 30 June,Females - 0-4 years (%),59.9,60.9,5.9,5.8,5.7,5.7,5.5,5.4,6
+ERP_F_22,Estimated resident population - Females - year ended 30 June,Females - 5-9 years (%),59.9,60.9,6.1,6.0,6.0,5.9,5.8,5.7,6
+ERP_F_23,Estimated resident population - Females - year ended 30 June,Females - 10-14 years (%),59.9,60.9,5.9,6.0,6.1,6.1,6.0,5.9,6
+ERP_F_24,Estimated resident population - Females - year ended 30 June,Females - 15-19 years (%),59.9,60.9,5.6,5.5,5.5,5.6,5.8,5.8,6
+ERP_F_25,Estimated resident population - Females - year ended 30 June,Females - 20-24 years (%),59.9,60.9,6.6,6.3,6.0,6.0,6.2,6.3,6
+ERP_F_26,Estimated resident population - Females - year ended 30 June,Females - 25-29 years (%),59.9,60.9,7.4,7.2,6.9,6.8,7.0,7.2,6
+ERP_F_27,Estimated resident population - Females - year ended 30 June,Females - 30-34 years (%),59.9,60.9,7.4,7.4,7.4,7.3,7.4,7.4,6
+ERP_F_28,Estimated resident population - Females - year ended 30 June,Females - 35-39 years (%),59.9,60.9,7.0,7.1,7.2,7.2,7.2,7.2,6
+ERP_F_29,Estimated resident population - Females - year ended 30 June,Females - 40-44 years (%),59.9,60.9,6.3,6.3,6.5,6.6,6.6,6.7,6
+ERP_F_30,Estimated resident population - Females - year ended 30 June,Females - 45-49 years (%),59.9,60.9,6.6,6.5,6.4,6.2,6.1,6.0,6
+ERP_F_31,Estimated resident population - Females - year ended 30 June,Females - 50-54 years (%),59.9,60.9,6.0,6.0,6.2,6.3,6.3,6.2,6
+ERP_F_32,Estimated resident population - Females - year ended 30 June,Females - 55-59 years (%),59.9,60.9,6.2,6.2,6.1,5.9,5.7,5.6,6
+ERP_F_33,Estimated resident population - Females - year ended 30 June,Females - 60-64 years (%),59.9,60.9,5.7,5.8,5.9,5.9,5.9,5.8,6
+ERP_F_34,Estimated resident population - Females - year ended 30 June,Females - 65-69 years (%),59.9,60.9,5.0,5.1,5.2,5.2,5.2,5.3,6
+ERP_F_35,Estimated resident population - Females - year ended 30 June,Females - 70-74 years (%),59.9,60.9,4.3,4.5,4.6,4.6,4.5,4.5,6
+ERP_F_36,Estimated resident population - Females - year ended 30 June,Females - 75-79 years (%),59.9,60.9,3.1,3.2,3.3,3.5,3.7,3.8,6
+ERP_F_37,Estimated resident population - Females - year ended 30 June,Females - 80-84 years (%),59.9,60.9,2.3,2.3,2.4,2.4,2.4,2.5,6
+ERP_F_38,Estimated resident population - Females - year ended 30 June,Females - 85 and over (%),59.9,60.9,2.6,2.6,2.7,2.7,2.7,2.7,6
+ERP_P_2,Estimated resident population - Persons - year ended 30 June,Persons - 0-4 years (no.),59.9,60.9,492150.0,486002.0,478681.0,480011.0,478149.0,473340.0,6
+ERP_P_3,Estimated resident population - Persons - year ended 30 June,Persons - 5-9 years (no.),59.9,60.9,509629.0,508380.0,506610.0,502352.0,498960.0,496959.0,6
+ERP_P_4,Estimated resident population - Persons - year ended 30 June,Persons - 10-14 years (no.),59.9,60.9,489932.0,501459.0,508398.0,512597.0,516308.0,518729.0,6
+ERP_P_5,Estimated resident population - Persons - year ended 30 June,Persons - 15-19 years (no.),59.9,60.9,471340.0,466117.0,461270.0,479354.0,501230.0,514760.0,6
+ERP_P_6,Estimated resident population - Persons - year ended 30 June,Persons - 20-24 years (no.),59.9,60.9,549214.0,534467.0,506754.0,513740.0,548567.0,566556.0,6
+ERP_P_7,Estimated resident population - Persons - year ended 30 June,Persons - 25-29 years (no.),59.9,60.9,602390.0,593919.0,568343.0,566319.0,598440.0,621214.0,6
+ERP_P_8,Estimated resident population - Persons - year ended 30 June,Persons - 30-34 years (no.),59.9,60.9,596681.0,601158.0,596529.0,597492.0,616382.0,628192.0,6
+ERP_P_9,Estimated resident population - Persons - year ended 30 June,Persons - 35-39 years (no.),59.9,60.9,566557.0,579948.0,585183.0,588236.0,597769.0,607926.0,6
+ERP_P_10,Estimated resident population - Persons - year ended 30 June,Persons - 40-44 years (no.),59.9,60.9,505155.0,510651.0,520894.0,533559.0,553889.0,571730.0,6
+ERP_P_11,Estimated resident population - Persons - year ended 30 June,Persons - 45-49 years (no.),59.9,60.9,527170.0,527499.0,517361.0,506422.0,502644.0,504471.0,6
+ERP_P_12,Estimated resident population - Persons - year ended 30 June,Persons - 50-54 years (no.),59.9,60.9,478764.0,484123.0,496522.0,508650.0,517558.0,521092.0,6
+ERP_P_13,Estimated resident population - Persons - year ended 30 June,Persons - 55-59 years (no.),59.9,60.9,495816.0,497514.0,489548.0,479781.0,471805.0,470276.0,6
+ERP_P_14,Estimated resident population - Persons - year ended 30 June,Persons - 60-64 years (no.),59.9,60.9,447489.0,460119.0,467296.0,473666.0,479807.0,483982.0,6
+ERP_P_15,Estimated resident population - Persons - year ended 30 June,Persons - 65-69 years (no.),59.9,60.9,393734.0,403426.0,407740.0,413974.0,421392.0,430070.0,6
+ERP_P_16,Estimated resident population - Persons - year ended 30 June,Persons - 70-74 years (no.),59.9,60.9,342166.0,355935.0,365227.0,362901.0,365749.0,370619.0,6
+ERP_P_17,Estimated resident population - Persons - year ended 30 June,Persons - 75-79 years (no.),59.9,60.9,238752.0,250395.0,261540.0,280476.0,297287.0,309188.0,6
+ERP_P_18,Estimated resident population - Persons - year ended 30 June,Persons - 80-84 years (no.),59.9,60.9,167668.0,174192.0,179183.0,183796.0,188503.0,197592.0,6
+ERP_P_19,Estimated resident population - Persons - year ended 30 June,Persons - 85 and over (no.),59.9,60.9,172141.0,175306.0,179983.0,183378.0,186760.0,192618.0,6
+ERP_P_21,Estimated resident population - Persons - year ended 30 June,Persons - 0-4 years (%),59.9,60.9,6.1,6.0,5.9,5.9,5.7,5.6,6
+ERP_P_22,Estimated resident population - Persons - year ended 30 June,Persons - 5-9 years (%),59.9,60.9,6.3,6.3,6.3,6.2,6.0,5.9,6
+ERP_P_23,Estimated resident population - Persons - year ended 30 June,Persons - 10-14 years (%),59.9,60.9,6.1,6.2,6.3,6.3,6.2,6.1,6
+ERP_P_24,Estimated resident population - Persons - year ended 30 June,Persons - 15-19 years (%),59.9,60.9,5.9,5.7,5.7,5.9,6.0,6.1,6
+ERP_P_25,Estimated resident population - Persons - year ended 30 June,Persons - 20-24 years (%),59.9,60.9,6.8,6.6,6.3,6.3,6.6,6.7,6
+ERP_P_26,Estimated resident population - Persons - year ended 30 June,Persons - 25-29 years (%),59.9,60.9,7.5,7.3,7.0,6.9,7.2,7.3,6
+ERP_P_27,Estimated resident population - Persons - year ended 30 June,Persons - 30-34 years (%),59.9,60.9,7.4,7.4,7.4,7.3,7.4,7.4,6
+ERP_P_28,Estimated resident population - Persons - year ended 30 June,Persons - 35-39 years (%),59.9,60.9,7.0,7.2,7.2,7.2,7.2,7.2,6
+ERP_P_29,Estimated resident population - Persons - year ended 30 June,Persons - 40-44 years (%),59.9,60.9,6.3,6.3,6.4,6.5,6.6,6.7,6
+ERP_P_30,Estimated resident population - Persons - year ended 30 June,Persons - 45-49 years (%),59.9,60.9,6.6,6.5,6.4,6.2,6.0,5.9,6
+ERP_P_31,Estimated resident population - Persons - year ended 30 June,Persons - 50-54 years (%),59.9,60.9,5.9,6.0,6.1,6.2,6.2,6.1,6
+ERP_P_32,Estimated resident population - Persons - year ended 30 June,Persons - 55-59 years (%),59.9,60.9,6.2,6.1,6.0,5.9,5.7,5.5,6
+ERP_P_33,Estimated resident population - Persons - year ended 30 June,Persons - 60-64 years (%),59.9,60.9,5.6,5.7,5.8,5.8,5.8,5.7,6
+ERP_P_34,Estimated resident population - Persons - year ended 30 June,Persons - 65-69 years (%),59.9,60.9,4.9,5.0,5.0,5.1,5.1,5.1,6
+ERP_P_35,Estimated resident population - Persons - year ended 30 June,Persons - 70-74 years (%),59.9,60.9,4.3,4.4,4.5,4.4,4.4,4.4,6
+ERP_P_36,Estimated resident population - Persons - year ended 30 June,Persons - 75-79 years (%),59.9,60.9,3.0,3.1,3.2,3.4,3.6,3.6,6
+ERP_P_37,Estimated resident population - Persons - year ended 30 June,Persons - 80-84 years (%),59.9,60.9,2.1,2.1,2.2,2.3,2.3,2.3,6
+ERP_P_38,Estimated resident population - Persons - year ended 30 June,Persons - 85 and over (%),59.9,60.9,2.1,2.2,2.2,2.2,2.2,2.3,6
+BD_2,Births and deaths - year ended 31 December,Births (no.),59.9,60.9,98906.0,95459.0,101332.0,97884.0,91947.0,31827.0,5
+BD_3,Births and deaths - year ended 31 December,Total fertility rate (births per female) (rate),59.9,60.9,1.77,1.75,1.72,1.72,1.68,31827.0,5
+BD_4,Births and deaths - year ended 31 December,Deaths (no.),59.9,60.9,56058.0,52485.0,56525.0,62980.0,59451.0,31827.0,5
+BD_5,Births and deaths - year ended 31 December,"Standardised death rate (per 1,000 people) (rate)",59.9,60.9,5.3,5.2,5.1,5.2,5.3,31827.0,5
+MIGRATION_2,Internal and overseas migration - year ended 30 June,Internal arrivals (no.),59.9,60.9,36056.0,36494.0,96540.0,108784.0,82008.0,81732.0,4
+MIGRATION_3,Internal and overseas migration - year ended 30 June,Internal departures (no.),59.9,60.9,36056.0,36494.0,113362.0,148119.0,116166.0,112597.0,4
+MIGRATION_4,Internal and overseas migration - year ended 30 June,Net internal migration (no.),59.9,60.9,36056.0,36494.0,-16822.0,-39335.0,-34158.0,-30865.0,4
+MIGRATION_5,Internal and overseas migration - year ended 30 June,Overseas arrivals (no.),59.9,60.9,36056.0,36494.0,72759.0,152865.0,250037.0,217211.0,4
+MIGRATION_6,Internal and overseas migration - year ended 30 June,Overseas departures (no.),59.9,60.9,36056.0,36494.0,78699.0,83753.0,72937.0,79781.0,4
+MIGRATION_7,Internal and overseas migration - year ended 30 June,Net overseas migration (no.),59.9,60.9,36056.0,36494.0,-5940.0,69112.0,177100.0,137430.0,4
+CENSUS_34,Aboriginal and Torres Strait Islander Peoples - Census,Aboriginal and Torres Strait Islander Peoples (no.),172620.0,216171.0,36056.0,36494.0,278043.0,41032.0,37466.0,31827.0,3
+CENSUS_2,Aboriginal and Torres Strait Islander Peoples - Census,Aboriginal and Torres Strait Islander Peoples (%),2.5,2.9,36056.0,36494.0,3.4,41032.0,37466.0,31827.0,3
+CENSUS_4,Overseas born population - Census,Born in Oceania and Antarctica (excluding Australia) (%),59.9,2.4,36056.0,36494.0,2.3,41032.0,37466.0,31827.0,2
+CENSUS_5,Overseas born population - Census,Born in North-West Europe (%),59.9,5.0,36056.0,36494.0,4.7,41032.0,37466.0,31827.0,2
+CENSUS_6,Overseas born population - Census,Born in Southern and Eastern Europe (%),59.9,2.9,36056.0,36494.0,2.7,41032.0,37466.0,31827.0,2
+CENSUS_7,Overseas born population - Census,Born in North Africa and the Middle East (%),59.9,2.5,36056.0,36494.0,2.9,41032.0,37466.0,31827.0,2
+CENSUS_8,Overseas born population - Census,Born in South-East Asia (%),59.9,4.0,36056.0,36494.0,4.4,41032.0,37466.0,31827.0,2
+CENSUS_9,Overseas born population - Census,Born in North-East Asia (%),59.9,4.8,36056.0,36494.0,4.8,41032.0,37466.0,31827.0,2
+CENSUS_10,Overseas born population - Census,Born in Southern and Central Asia (%),59.9,3.6,36056.0,36494.0,4.8,41032.0,37466.0,31827.0,2
+CENSUS_11,Overseas born population - Census,Born in Americas (%),59.9,1.4,36056.0,36494.0,1.6,41032.0,37466.0,31827.0,2
+CENSUS_12,Overseas born population - Census,Born in Sub-Saharan Africa (%),59.9,1.0,36056.0,36494.0,1.1,41032.0,37466.0,31827.0,2
+CENSUS_35,Overseas born population - Census,Total born overseas (no.),59.9,2068036.0,36056.0,36494.0,2362364.0,41032.0,37466.0,31827.0,2
+CENSUS_13,Overseas born population - Census,Total born overseas (%),59.9,27.6,36056.0,36494.0,29.3,41032.0,37466.0,31827.0,2
+CENSUS_15,Religious affiliation - Census,Buddhism (%),2.9,2.8,36056.0,36494.0,2.8,41032.0,37466.0,31827.0,3
+CENSUS_16,Religious affiliation - Census,Christianity (%),64.5,55.2,36056.0,36494.0,47.6,41032.0,37466.0,31827.0,3
+CENSUS_17,Religious affiliation - Census,Hinduism (%),1.7,2.4,36056.0,36494.0,3.4,41032.0,37466.0,31827.0,3
+CENSUS_18,Religious affiliation - Census,Islam (%),3.2,3.6,36056.0,36494.0,4.3,41032.0,37466.0,31827.0,3
+CENSUS_19,Religious affiliation - Census,Judaism (%),0.6,0.5,36056.0,36494.0,0.5,41032.0,37466.0,31827.0,3
+CENSUS_20,Religious affiliation - Census,Other religions (%),0.8,0.9,36056.0,36494.0,1.1,41032.0,37466.0,31827.0,3
+CENSUS_40,Religious affiliation - Census,"Secular beliefs, other spiritual beliefs or no religion (%)",18.1,25.5,36056.0,36494.0,33.2,41032.0,37466.0,31827.0,3
+CENSUS_22,Religious affiliation - Census,Religious affiliation inadequately described or not stated (%),8.3,9.2,36056.0,36494.0,7.1,41032.0,37466.0,31827.0,3
+CENSUS_36,Australian citizenship - Census,Australian citizen (no.),5914275.0,6186119.0,36056.0,36494.0,6756031.0,41032.0,37466.0,31827.0,3
+CENSUS_37,Australian citizenship - Census,Not an Australian citizen (no.),584339.0,788942.0,36056.0,36494.0,903498.0,41032.0,37466.0,31827.0,3
+CENSUS_38,Australian citizenship - Census,Australian citizenship not stated (no.),419046.0,505171.0,36056.0,36494.0,412628.0,41032.0,37466.0,31827.0,3
+CENSUS_29,Australian citizenship - Census,Australian citizen (%),85.5,82.7,36056.0,36494.0,83.7,41032.0,37466.0,31827.0,3
+CENSUS_30,Australian citizenship - Census,Not an Australian citizen (%),8.4,10.5,36056.0,36494.0,11.2,41032.0,37466.0,31827.0,3
+CENSUS_31,Australian citizenship - Census,Australian citizenship not stated (%),6.1,6.8,36056.0,36494.0,5.1,41032.0,37466.0,31827.0,3
+CENSUS_39,Speaks a language other than English at home - Census,Speaks a language other than English at home (no.),1554335.0,1882017.0,36056.0,36494.0,2146080.0,41032.0,37466.0,31827.0,3
+CENSUS_33,Speaks a language other than English at home - Census,Speaks a language other than English at home (%),22.5,25.2,36056.0,36494.0,26.6,41032.0,37466.0,31827.0,3
+ADFS_2,Australian Defence Force service - Persons aged 15 years and over - Census,Currently serving in the Australian Defence Force (no.),59.9,60.9,36056.0,36494.0,24513.0,41032.0,37466.0,31827.0,1
+ADFS_3,Australian Defence Force service - Persons aged 15 years and over - Census,Previously served in the Australian Defence Force (no.),59.9,60.9,36056.0,36494.0,127657.0,41032.0,37466.0,31827.0,1
+ADFS_4,Australian Defence Force service - Persons aged 15 years and over - Census,Currently serving in the Australian Defence Force (%),59.9,60.9,36056.0,36494.0,0.4,41032.0,37466.0,31827.0,1
+ADFS_5,Australian Defence Force service - Persons aged 15 years and over - Census,Previously served in the Australian Defence Force (%),59.9,60.9,36056.0,36494.0,1.9,41032.0,37466.0,31827.0,1
+ING_MA_M,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Median age - males (years),20.6,21.8,36056.0,36494.0,22.6,41032.0,37466.0,31827.0,3
+ING_MA_F,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Median age - females (years),22.2,23.4,36056.0,36494.0,24.3,41032.0,37466.0,31827.0,3
+ING_MA_P,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Median age - persons (years),21.4,22.6,36056.0,36494.0,23.4,41032.0,37466.0,31827.0,3
+ING_WA1,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Working age population (aged 15-64 years) (no.),124932.0,160431.0,36056.0,36494.0,204377.0,41032.0,37466.0,31827.0,3
+ING_WA2,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Working age population (aged 15-64 years) (%),59.9,60.4,36056.0,36494.0,60.2,41032.0,37466.0,31827.0,3
+ING_ERP_P,Estimated resident Aboriginal and Torres Strait Islander population - at 30 June,Estimated resident Aboriginal and Torres Strait Islander population (no.),208476.0,265685.0,36056.0,36494.0,339710.0,41032.0,37466.0,31827.0,3
+ING_M014,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 0-14 years (no.),38758.0,47760.0,36056.0,36494.0,59525.0,41032.0,37466.0,31827.0,3
+ING_M1524,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 15-24 years (no.),21468.0,26727.0,36056.0,36494.0,32705.0,41032.0,37466.0,31827.0,3
+ING_M2534,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 25-34 years (no.),12765.0,17650.0,36056.0,36494.0,24108.0,41032.0,37466.0,31827.0,3
+ING_M3544,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 35-44 years (no.),11599.0,13284.0,36056.0,36494.0,16640.0,41032.0,37466.0,31827.0,3
+ING_M4554,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 45-54 years (no.),9695.0,12530.0,36056.0,36494.0,15703.0,41032.0,37466.0,31827.0,3
+ING_M55OVER,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - 55 years and over (no.),9622.0,14757.0,36056.0,36494.0,21736.0,41032.0,37466.0,31827.0,3
+ING_ERP_M,Estimated resident Aboriginal and Torres Strait Islander population - Males - at 30 June,Males - total (no.),103907.0,132708.0,36056.0,36494.0,170417.0,41032.0,37466.0,31827.0,3
+ING_F014,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 0-14 years (no.),36894.0,44855.0,36056.0,36494.0,55670.0,41032.0,37466.0,31827.0,3
+ING_F1524,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 15-24 years (no.),20371.0,25350.0,36056.0,36494.0,30879.0,41032.0,37466.0,31827.0,3
+ING_F2534,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 25-34 years (no.),13062.0,17776.0,36056.0,36494.0,23841.0,41032.0,37466.0,31827.0,3
+ING_F3544,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 35-44 years (no.),13029.0,14474.0,36056.0,36494.0,17592.0,41032.0,37466.0,31827.0,3
+ING_F4554,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 45-54 years (no.),10659.0,14226.0,36056.0,36494.0,17153.0,41032.0,37466.0,31827.0,3
+ING_F55OVER,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - 55 years and over (no.),10554.0,16296.0,36056.0,36494.0,24158.0,41032.0,37466.0,31827.0,3
+ING_ERP_F,Estimated resident Aboriginal and Torres Strait Islander population - Females - at 30 June,Females - total (no.),104569.0,132977.0,36056.0,36494.0,169293.0,41032.0,37466.0,31827.0,3
+ING_P014,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 0-14 years (no.),75652.0,92615.0,36056.0,36494.0,115195.0,41032.0,37466.0,31827.0,3
+ING_P1524,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 15-24 years (no.),41839.0,52077.0,36056.0,36494.0,63584.0,41032.0,37466.0,31827.0,3
+ING_P2534,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 25-34 years (no.),25827.0,35426.0,36056.0,36494.0,47949.0,41032.0,37466.0,31827.0,3
+ING_P3544,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 35-44 years (no.),24628.0,27758.0,36056.0,36494.0,34232.0,41032.0,37466.0,31827.0,3
+ING_P4554,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 45-54 years (no.),20354.0,26756.0,36056.0,36494.0,32856.0,41032.0,37466.0,31827.0,3
+ING_P55OVER,Estimated resident Aboriginal and Torres Strait Islander population - Persons - at 30 June,Persons - 55 years and over (no.),20176.0,31053.0,36056.0,36494.0,45894.0,41032.0,37466.0,31827.0,3
+ING_CULTID,Culture,"Identifies with tribal group, language group, clan, mission or regional group (%)",59.9,60.9,59.6,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_HLTC1,Culture,Recognises an area as homelands/traditional country (%),59.9,60.9,72.6,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_HLTC2,Culture,Recognises and lives in homelands/traditional country (%),59.9,60.9,29.4,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_HLTC3,Culture,Recognises and allowed to visit homelands/traditional country (%),59.9,60.9,41.6,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LANG1,Language - Census,Aboriginal and Torres Strait Islander people who reported speaking an Aboriginal or Torres Strait Islander language (%),0.7,0.9,36056.0,36494.0,1.9,41032.0,37466.0,31827.0,3
+ING_LANG2,Language - Census,Speaks English at home (%),98.3,98.0,36056.0,36494.0,96.9,41032.0,37466.0,31827.0,3
+ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),42.5,43.4,36056.0,36494.0,42.7,41032.0,37466.0,31827.0,3
+ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),16.8,17.4,36056.0,36494.0,20.3,41032.0,37466.0,31827.0,3
+ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),40.7,39.2,36056.0,36494.0,37.0,41032.0,37466.0,31827.0,3
+ING_EMP1,Labour force status - Census,Employed (no.),46248.0,64093.0,36056.0,36494.0,92356.0,41032.0,37466.0,31827.0,3
+ING_EMP2,Labour force status - Census,% of total labour force employed,83.0,84.5,36056.0,36494.0,90.0,41032.0,37466.0,31827.0,3
+ING_UNEMP1,Labour force status - Census,Unemployed (no.),9496.0,11769.0,36056.0,36494.0,10223.0,41032.0,37466.0,31827.0,3
+ING_UNEMP2,Labour force status - Census,% of total labour force unemployed,17.0,15.5,36056.0,36494.0,10.0,41032.0,37466.0,31827.0,3
+ING_LABF,Labour force status - Census,In the labour force (no.),55748.0,75865.0,36056.0,36494.0,102579.0,41032.0,37466.0,31827.0,3
+ING_LFPR,Labour force status - Census,Labour force participation rate (%),56.4,59.7,36056.0,36494.0,62.6,41032.0,37466.0,31827.0,3
+ING_NILF,Labour force status - Census,Not in the labour force (%),43.6,40.4,36056.0,36494.0,37.4,41032.0,37466.0,31827.0,3
+ING_1564,Labour force status - Census,Total responding population aged 15-64 years (no.),98901.0,127179.0,36056.0,36494.0,163828.0,41032.0,37466.0,31827.0,3
+ING_EMP3,Labour force status - Census,% of total Census responding population employed,46.8,50.4,36056.0,36494.0,56.4,41032.0,37466.0,31827.0,3
+ING_UA1,Unpaid assistance to a person with a disability - Census,Provided unpaid assistance (no.),14988.0,20600.0,36056.0,36494.0,27147.0,41032.0,37466.0,31827.0,3
+ING_UA2,Unpaid assistance to a person with a disability - Census,Provided unpaid assistance (%),13.6,14.5,36056.0,36494.0,14.6,41032.0,37466.0,31827.0,3
+ING_UPCC1,Unpaid child care - Census,Cared for own child/children (no.),22992.0,29256.0,36056.0,36494.0,38602.0,41032.0,37466.0,31827.0,3
+ING_UPCC2,Unpaid child care - Census,Cared for own child/children (%),20.9,20.6,36056.0,36494.0,20.8,41032.0,37466.0,31827.0,3
+ING_UPCC3,Unpaid child care - Census,Cared for other child/children (no.),9080.0,11740.0,36056.0,36494.0,12373.0,41032.0,37466.0,31827.0,3
+ING_UPCC4,Unpaid child care - Census,Cared for other child/children (%),8.3,8.3,36056.0,36494.0,6.7,41032.0,37466.0,31827.0,3
+ING_UPCC5,Unpaid child care - Census,Total provided unpaid child care (no.),33551.0,42758.0,36056.0,36494.0,53152.0,41032.0,37466.0,31827.0,3
+ING_UPCC6,Unpaid child care - Census,Total provided unpaid child care (%),30.5,30.1,36056.0,36494.0,28.7,41032.0,37466.0,31827.0,3
+ING_UPCC7,Unpaid child care - Census,Did not provide unpaid child care (no.),65752.0,88442.0,36056.0,36494.0,122358.0,41032.0,37466.0,31827.0,3
+ING_UPCC8,Unpaid child care - Census,Did not provide unpaid child care (%),59.8,62.3,36056.0,36494.0,66.0,41032.0,37466.0,31827.0,3
+ING_VOLWP1,Voluntary work for an organisation or group - Census,Volunteered for an organisation or group (no.),14652.0,21598.0,36056.0,36494.0,19979.0,41032.0,37466.0,31827.0,3
+ING_VOLWP2,Voluntary work for an organisation or group - Census,Volunteered for an organisation or group (%),13.3,15.2,36056.0,36494.0,10.8,41032.0,37466.0,31827.0,3
+ING_SAHLTH,Self-assessed health,Excellent/very good self-assessed health (%),59.9,60.9,46.5,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB1,Disability status,Profound/severe core activity limitation (no.),59.9,60.9,22220.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB2,Disability status,Moderate/mild core activity limitation (no.),59.9,60.9,39193.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB3,Disability status,Schooling/employment restriction only (no.),59.9,60.9,15511.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB4,Disability status,No limitation or specific restriction (no.),59.9,60.9,24311.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB5,Disability status,Total with disability (no.),59.9,60.9,101443.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB6,Disability status,Total with disability (%),59.9,60.9,37.3,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_DISAB7,Disability status,Has no disability or long-term health condition (%),59.9,60.9,62.9,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC1,Current long-term health conditions,No current long-term health conditions (%),59.9,60.9,29.5,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC2,Current long-term health conditions,One long-term health condition (no.),59.9,60.9,44246.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC3,Current long-term health conditions,Two long-term health conditions (no.),59.9,60.9,36924.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC4,Current long-term health conditions,Three or more long-term health conditions (no.),59.9,60.9,109503.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC5,Current long-term health conditions,Total with one or more current long-term health conditions (no.),59.9,60.9,191947.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_LTHC6,Current long-term health conditions,Total with one or more current long-term health conditions (%),59.9,60.9,70.6,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_USP1,Usual and preferred health service providers,Aboriginal Medical Service is usual health service provider (no.),59.9,60.9,69204.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_USP2,Usual and preferred health service providers,Aboriginal Medical Service is usual health service provider (%),59.9,60.9,25.5,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_USP3,Usual and preferred health service providers,Aboriginal Medical Service is preferred health service provider (no.),59.9,60.9,122451.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_USP4,Usual and preferred health service providers,Aboriginal Medical Service is preferred health service provider (%),59.9,60.9,45.1,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_ALC1,Health risk factor - Alcohol consumption,Did not exceed life time alcohol risk levels (2009 guidelines) (no.),59.9,60.9,141997.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_ALC2,Health risk factor - Alcohol consumption,Did not exceed life time alcohol risk levels (2009 guidelines) (%),59.9,60.9,78.7,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_SMK1,Health risk factor - Smoker status,Ex-smoker/never smoked (no.),59.9,60.9,115500.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_SMK2,Health risk factor - Smoker status,Ex-smoker/never smoked (%),59.9,60.9,64.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+ING_TTYPE1,Tenure type - Census,Owner with or without a mortgage (or being purchased under a shared equity scheme) (no.),58885.0,79849.0,36056.0,36494.0,112521.0,41032.0,37466.0,31827.0,3
+ING_TTYPE2,Tenure type - Census,Owner with or without a mortgage (or being purchased under a shared equity scheme) (%),37.4,40.4,36056.0,36494.0,43.5,41032.0,37466.0,31827.0,3
+ING_TTYPE3,Tenure type - Census,Renter (no.),90835.0,108309.0,36056.0,36494.0,137702.0,41032.0,37466.0,31827.0,3
+ING_TTYPE4,Tenure type - Census,Renter (%),57.6,54.7,36056.0,36494.0,53.2,41032.0,37466.0,31827.0,3
+ING_HMLSS1,Homelessness - Census estimates of homelessness,Estimate of persons who were homeless or likely to be homeless who identified as Aboriginal and/or Torres Strait Islander (no.),2205.0,2278.0,36056.0,36494.0,2508.0,41032.0,37466.0,31827.0,3
+ING_HMLSS2,Homelessness - Census estimates of homelessness,% of total homeless or likely to be homeless population estimate who identify as Aboriginal and/or Torres Strait Islander,8.0,6.0,36056.0,36494.0,7.0,41032.0,37466.0,31827.0,3
+ING_YR12C3P1,Closing the Gap Target 5 - People aged 20-24 years - Census,Attained Year 12 or equivalent or Certificate III or above (no.),6634.0,11164.0,36056.0,36494.0,15722.0,41032.0,37466.0,31827.0,3
+ING_YR12C3P2,Closing the Gap Target 5 - People aged 20-24 years - Census,Attained Year 12 or equivalent or Certificate III or above (%),53.5,64.3,36056.0,36494.0,69.3,41032.0,37466.0,31827.0,3
+ING_YR12C3P3,Closing the Gap Target 5 - People aged 20-24 years - Census,Total applicable population aged 20-24 years (no.),12405.0,17365.0,36056.0,36494.0,22675.0,41032.0,37466.0,31827.0,3
+ING_HEAP1,Closing the Gap Target 6 - People aged 25-34 years - Census,Completed tertiary qualification of Certificate III or above (no.),6562.0,11558.0,36056.0,36494.0,18762.0,41032.0,37466.0,31827.0,3
+ING_HEAP2,Closing the Gap Target 6 - People aged 25-34 years - Census,Completed tertiary qualification of Certificate III or above (%),37.9,48.3,36056.0,36494.0,54.1,41032.0,37466.0,31827.0,3
+ING_HEAP3,Closing the Gap Target 6 - People aged 25-34 years - Census,Total applicable population aged 25-34 years (no.),17326.0,23931.0,36056.0,36494.0,34703.0,41032.0,37466.0,31827.0,3
+ING_EETPH1,Closing the Gap Target 7 - People aged 15-24 years - Census,"Fully engaged in employment, education or training (no.)",18388.0,23789.0,36056.0,36494.0,29599.0,41032.0,37466.0,31827.0,3
+ING_EETPH2,Closing the Gap Target 7 - People aged 15-24 years - Census,"Fully engaged in employment, education or training (%)",60.5,61.7,36056.0,36494.0,62.0,41032.0,37466.0,31827.0,3
+ING_EETPH3,Closing the Gap Target 7 - People aged 15-24 years - Census,Total applicable population aged 15-24 years (no.),30383.0,38572.0,36056.0,36494.0,47729.0,41032.0,37466.0,31827.0,3
+ING_LFSP1,Closing the Gap Target 8 - People aged 25-64 years - Census,Employed (no.),34482.0,47360.0,36056.0,36494.0,67497.0,41032.0,37466.0,31827.0,3
+ING_LFSP2,Closing the Gap Target 8 - People aged 25-64 years - Census,Employed (%),51.7,54.6,36056.0,36494.0,59.6,41032.0,37466.0,31827.0,3
+ING_LFSP3,Closing the Gap Target 8 - People aged 25-64 years - Census,Total applicable population aged 25-64 years (no.),66676.0,86732.0,36056.0,36494.0,113280.0,41032.0,37466.0,31827.0,3
+ING_HOSD1,Closing the Gap Target 9A - Census,Living in a dwelling with no additional bedrooms required (appropriately sized) (no.),122049.0,157619.0,36056.0,36494.0,213418.0,41032.0,37466.0,31827.0,3
+ING_HOSD2,Closing the Gap Target 9A - Census,Living in a dwelling with no additional bedrooms required (appropriately sized) (%),83.9,85.9,36056.0,36494.0,87.5,41032.0,37466.0,31827.0,3
+ING_HOSD3,Closing the Gap Target 9A - Census,Living in a dwelling requiring one additional bedroom (no.),17193.0,19061.0,36056.0,36494.0,22080.0,41032.0,37466.0,31827.0,3
+ING_HOSD4,Closing the Gap Target 9A - Census,Living in a dwelling requiring one additional bedroom (%),11.8,10.4,36056.0,36494.0,9.1,41032.0,37466.0,31827.0,3
+ING_HOSD5,Closing the Gap Target 9A - Census,Living in a dwelling requiring two additional bedrooms (no.),4434.0,4866.0,36056.0,36494.0,6227.0,41032.0,37466.0,31827.0,3
+ING_HOSD6,Closing the Gap Target 9A - Census,Living in a dwelling requiring two additional bedrooms (%),3.0,2.7,36056.0,36494.0,2.6,41032.0,37466.0,31827.0,3
+ING_HOSD7,Closing the Gap Target 9A - Census,Living in a dwelling requiring three additional bedrooms (no.),1271.0,1408.0,36056.0,36494.0,1549.0,41032.0,37466.0,31827.0,3
+ING_HOSD8,Closing the Gap Target 9A - Census,Living in a dwelling requiring three additional bedrooms (%),0.9,0.8,36056.0,36494.0,0.6,41032.0,37466.0,31827.0,3
+ING_HOSD9,Closing the Gap Target 9A - Census,Living in a dwelling requiring four or more additional bedrooms (no.),561.0,543.0,36056.0,36494.0,645.0,41032.0,37466.0,31827.0,3
+ING_HOSD10,Closing the Gap Target 9A - Census,Living in a dwelling requiring four or more additional bedrooms (%),0.4,0.3,36056.0,36494.0,0.3,41032.0,37466.0,31827.0,3
+ING_HOSD11,Closing the Gap Target 9A - Census,Total people living in applicable dwellings (no.),145515.0,183501.0,36056.0,36494.0,243919.0,41032.0,37466.0,31827.0,3
+CABEE_2,Number of businesses - at 30 June,Number of non-employing businesses,59.9,60.9,36056.0,470966.0,457432.0,486578.0,509549.0,537650.0,5
+CABEE_3,Number of businesses - at 30 June,Number of employing businesses: 1-4 employees,59.9,60.9,36056.0,225070.0,267680.0,272838.0,264129.0,259979.0,5
+CABEE_4,Number of businesses - at 30 June,Number of employing businesses: 5-19 employees,59.9,60.9,36056.0,70491.0,72797.0,74786.0,75435.0,75508.0,5
+CABEE_38,Number of businesses - at 30 June,Number of employing businesses: 20 or more employees,59.9,60.9,36056.0,19719.0,19694.0,20525.0,21838.0,23423.0,5
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,59.9,60.9,36056.0,786246.0,817603.0,854727.0,870951.0,896560.0,5
+CABEE_7,Business entries - year ended 30 June,Number of non-employing business entries,59.9,60.9,36056.0,36494.0,85411.0,100853.0,97443.0,107583.0,4
+CABEE_8,Business entries - year ended 30 June,Number of employing business entries: 1-4 employees,59.9,60.9,36056.0,36494.0,39860.0,39288.0,37466.0,38157.0,4
+CABEE_9,Business entries - year ended 30 June,Number of employing business entries: 5-19 employees,59.9,60.9,36056.0,36494.0,2598.0,2885.0,2753.0,3016.0,4
+CABEE_39,Business entries - year ended 30 June,Number of employing business entries: 20 or more employees,59.9,60.9,36056.0,36494.0,382.0,439.0,432.0,470.0,4
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,59.9,60.9,36056.0,36494.0,128251.0,143465.0,138094.0,149226.0,4
+CABEE_12,Business exits - year ended 30 June,Number of non-employing business exits,59.9,60.9,36056.0,36494.0,77065.0,77096.0,94407.0,91717.0,4
+CABEE_13,Business exits - year ended 30 June,Number of employing business exits: 1-4 employees,59.9,60.9,36056.0,36494.0,16135.0,24480.0,29529.0,26292.0,4
+CABEE_14,Business exits - year ended 30 June,Number of employing business exits: 5-19 employees,59.9,60.9,36056.0,36494.0,2659.0,3405.0,4201.0,4116.0,4
+CABEE_40,Business exits - year ended 30 June,Number of employing business exits: 20 or more employees,59.9,60.9,36056.0,36494.0,585.0,655.0,648.0,653.0,4
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,59.9,60.9,36056.0,36494.0,96444.0,105636.0,128785.0,122778.0,4
+CABEE_19,Number of businesses by industry - at 30 June,"Agriculture, forestry and fishing (no.)",59.9,60.9,36056.0,52088.0,52802.0,53928.0,53816.0,53235.0,5
+CABEE_28,Number of businesses by industry - at 30 June,Mining (no.),59.9,60.9,36056.0,1567.0,1569.0,1564.0,1618.0,1641.0,5
+CABEE_27,Number of businesses by industry - at 30 June,Manufacturing (no.),59.9,60.9,36056.0,26642.0,27530.0,28451.0,28529.0,28776.0,5
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",59.9,60.9,36056.0,2466.0,2606.0,2739.0,2787.0,2835.0,5
+CABEE_21,Number of businesses by industry - at 30 June,Construction (no.),59.9,60.9,36056.0,131301.0,138030.0,146571.0,149387.0,153172.0,5
+CABEE_37,Number of businesses by industry - at 30 June,Wholesale trade (no.),59.9,60.9,36056.0,28533.0,29366.0,29668.0,29551.0,29613.0,5
+CABEE_34,Number of businesses by industry - at 30 June,Retail trade (no.),59.9,60.9,36056.0,46258.0,49149.0,51369.0,51087.0,51192.0,5
+CABEE_17,Number of businesses by industry - at 30 June,Accommodation and food services (no.),59.9,60.9,36056.0,34008.0,36151.0,37308.0,37125.0,37508.0,5
+CABEE_36,Number of businesses by industry - at 30 June,"Transport, postal and warehousing (no.)",59.9,60.9,36056.0,66666.0,63707.0,63265.0,66624.0,71450.0,5
+CABEE_26,Number of businesses by industry - at 30 June,Information media and telecommunications (no.),59.9,60.9,36056.0,9225.0,9585.0,9954.0,9991.0,10078.0,5
+CABEE_24,Number of businesses by industry - at 30 June,Financial and insurance services (no.),59.9,60.9,36056.0,40954.0,43088.0,45905.0,47270.0,49854.0,5
+CABEE_33,Number of businesses by industry - at 30 June,"Rental, hiring and real estate services (no.)",59.9,60.9,36056.0,89262.0,92266.0,97001.0,98186.0,101312.0,5
+CABEE_31,Number of businesses by industry - at 30 June,"Professional, scientific and technical services (no.)",59.9,60.9,36056.0,109755.0,114979.0,120198.0,122210.0,125848.0,5
+CABEE_18,Number of businesses by industry - at 30 June,Administrative and support services (no.),59.9,60.9,36056.0,35051.0,36921.0,38998.0,40252.0,41309.0,5
+CABEE_32,Number of businesses by industry - at 30 June,Public administration and safety (no.),59.9,60.9,36056.0,2657.0,2650.0,2740.0,2763.0,2835.0,5
+CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),59.9,60.9,36056.0,12950.0,13774.0,14582.0,14839.0,15212.0,5
+CABEE_25,Number of businesses by industry - at 30 June,Health care and social assistance (no.),59.9,60.9,36056.0,50690.0,54267.0,58264.0,61415.0,65958.0,5
+CABEE_20,Number of businesses by industry - at 30 June,Arts and recreation services (no.),59.9,60.9,36056.0,11282.0,11869.0,12563.0,13035.0,13317.0,5
+CABEE_30,Number of businesses by industry - at 30 June,Other services (no.),59.9,60.9,36056.0,33987.0,36495.0,38991.0,39721.0,40826.0,5
+CABEE_29,Number of businesses by industry - at 30 June,Currently unknown (no.),59.9,60.9,36056.0,904.0,799.0,668.0,745.0,589.0,5
+CABEE_42,Number of businesses by turnover - at 30 June,Number of businesses with turnover of zero to less than $50k,59.9,60.9,36056.0,203999.0,230912.0,226742.0,210293.0,212331.0,5
+CABEE_43,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $50k to less than $200k,59.9,60.9,36056.0,257665.0,259905.0,276036.0,283688.0,289666.0,5
+CABEE_44,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $200k to less than $2m,59.9,60.9,36056.0,265416.0,267900.0,286672.0,304654.0,317150.0,5
+CABEE_45,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $2m to less than $5m,59.9,60.9,36056.0,32547.0,32686.0,36333.0,39717.0,42610.0,5
+CABEE_46,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $5m to less than $10m,59.9,60.9,36056.0,11980.0,11868.0,13228.0,15030.0,15979.0,5
+CABEE_47,Number of businesses by turnover - at 30 June,Number of businesses with turnover of $10m or more,59.9,60.9,36056.0,14639.0,14332.0,15716.0,17569.0,18725.0,5
+CABEE_50,Business entries by turnover - year ended 30 June,Number of business entries with turnover of zero to less than $50k,59.9,60.9,36056.0,36494.0,51726.0,52319.0,44671.0,48741.0,4
+CABEE_51,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $50k to less than $200k,59.9,60.9,36056.0,36494.0,50021.0,60666.0,62187.0,66503.0,4
+CABEE_52,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $200k to less than $2m,59.9,60.9,36056.0,36494.0,24917.0,28305.0,29250.0,31827.0,4
+CABEE_53,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $2m to less than $5m,59.9,60.9,36056.0,36494.0,989.0,1300.0,1187.0,1378.0,4
+CABEE_54,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $5m to less than $10m,59.9,60.9,36056.0,36494.0,293.0,444.0,453.0,432.0,4
+CABEE_55,Business entries by turnover - year ended 30 June,Number of business entries with turnover of $10m or more,59.9,60.9,36056.0,36494.0,305.0,431.0,346.0,369.0,4
+CABEE_58,Business exits by turnover - year ended 30 June,Number of business exits with turnover of zero to less than $50k,59.9,60.9,36056.0,36494.0,47967.0,48170.0,58885.0,53579.0,4
+CABEE_59,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $50k to less than $200k,59.9,60.9,36056.0,36494.0,29956.0,30028.0,42432.0,42343.0,4
+CABEE_60,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $200k to less than $2m,59.9,60.9,36056.0,36494.0,16220.0,16270.0,24575.0,24061.0,4
+CABEE_61,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $2m to less than $5m,59.9,60.9,36056.0,36494.0,1190.0,1189.0,1690.0,1724.0,4
+CABEE_62,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $5m to less than $10m,59.9,60.9,36056.0,36494.0,413.0,418.0,466.0,476.0,4
+CABEE_63,Business exits by turnover - year ended 30 June,Number of business exits with turnover of $10m or more,59.9,60.9,36056.0,36494.0,506.0,501.0,502.0,526.0,4
+BUILDING_2,Building approvals - year ended 30 June,Private sector houses (no.),59.9,60.9,28141.0,24546.0,30426.0,29299.0,24844.0,22579.0,6
+BUILDING_3,Building approvals - year ended 30 June,Private sector dwellings excluding houses (no.),59.9,60.9,29505.0,23608.0,29193.0,25664.0,27005.0,19290.0,6
+BUILDING_12,Building approvals - year ended 30 June,Total private sector dwelling units (no.),59.9,60.9,57646.0,48154.0,59619.0,54963.0,51849.0,41869.0,6
+BUILDING_4,Building approvals - year ended 30 June,Total dwelling units (no.),59.9,60.9,57982.0,48748.0,60213.0,55574.0,52313.0,42530.0,6
+BUILDING_5,Building approvals - year ended 30 June,Value of private sector houses ($m),59.9,60.9,11928.0,10714.0,13897.0,15376.0,14888.0,14487.0,6
+BUILDING_6,Building approvals - year ended 30 June,Value of private sector dwellings excluding houses ($m),59.9,60.9,9548.0,7623.0,10277.0,9483.0,11521.0,9760.0,6
+BUILDING_7,Building approvals - year ended 30 June,Total value of private sector dwelling units ($m),59.9,60.9,21477.0,18337.0,24174.0,24859.0,26409.0,24247.0,6
+BUILDING_8,Building approvals - year ended 30 June,Value of residential building ($m),59.9,60.9,22005.0,18954.0,24976.0,25615.0,27291.0,25297.0,6
+BUILDING_9,Building approvals - year ended 30 June,Value of non-residential building ($m),59.9,60.9,16865.0,17540.0,19995.0,16778.0,20464.0,19196.0,6
+BUILDING_10,Building approvals - year ended 30 June,Value of total building ($m),59.9,60.9,38871.0,36494.0,44971.0,42393.0,47755.0,44493.0,6
+HOUSES_2,Residential property transfers - year ended 30 June,Number of established house transfers (no.),59.9,60.9,80138.0,88709.0,126192.0,114766.0,86239.0,96251.0,6
+HOUSES_3,Residential property transfers - year ended 30 June,Median price of established house transfers ($),59.9,60.9,650000.0,680000.0,750000.0,925000.0,945000.0,1000000.0,6
+HOUSES_4,Residential property transfers - year ended 30 June,Number of attached dwelling transfers (no.),59.9,60.9,39253.0,47559.0,66910.0,66447.0,52247.0,63343.0,6
+HOUSES_5,Residential property transfers - year ended 30 June,Median price of attached dwelling transfers ($),59.9,60.9,651000.0,670000.0,695000.0,749000.0,732000.0,763000.0,6
+INSOLV_2,Debtors entering personal insolvencies - year ended 30 June,Debtors entering business related personal insolvencies (no.),59.9,2092.0,1815.0,1498.0,829.0,41032.0,37466.0,31827.0,4
+INSOLV_3,Debtors entering personal insolvencies - year ended 30 June,Debtors entering non-business related personal insolvencies (no.),59.9,6761.0,6115.0,4602.0,2449.0,41032.0,37466.0,31827.0,4
+INSOLV_4,Debtors entering personal insolvencies - year ended 30 June,Total debtors entering personal insolvencies (no.),59.9,8855.0,7926.0,6104.0,3279.0,41032.0,37466.0,31827.0,4
+INSOLV_10,Occupations of debtors entering personal insolvencies - year ended 30 June,Managers (no.),59.9,847.0,823.0,646.0,350.0,41032.0,37466.0,31827.0,4
+INSOLV_11,Occupations of debtors entering personal insolvencies - year ended 30 June,Professionals (no.),59.9,769.0,785.0,582.0,322.0,41032.0,37466.0,31827.0,4
+INSOLV_12,Occupations of debtors entering personal insolvencies - year ended 30 June,Technicians and trades workers (no.),59.9,1295.0,1097.0,860.0,398.0,41032.0,37466.0,31827.0,4
+INSOLV_13,Occupations of debtors entering personal insolvencies - year ended 30 June,Community and personal service workers (no.),59.9,1049.0,953.0,764.0,362.0,41032.0,37466.0,31827.0,4
+INSOLV_14,Occupations of debtors entering personal insolvencies - year ended 30 June,Clerical and administrative workers (no.),59.9,1086.0,941.0,741.0,330.0,41032.0,37466.0,31827.0,4
+INSOLV_15,Occupations of debtors entering personal insolvencies - year ended 30 June,Sales workers (no.),59.9,761.0,681.0,471.0,212.0,41032.0,37466.0,31827.0,4
+INSOLV_16,Occupations of debtors entering personal insolvencies - year ended 30 June,Machinery operators and drivers (no.),59.9,913.0,893.0,661.0,352.0,41032.0,37466.0,31827.0,4
+INSOLV_17,Occupations of debtors entering personal insolvencies - year ended 30 June,Labourers (no.),59.9,1160.0,1125.0,784.0,413.0,41032.0,37466.0,31827.0,4
+INSOLV_18,Occupations of debtors entering personal insolvencies - year ended 30 June,Debtors with other or unknown occupations (no.),59.9,976.0,626.0,590.0,552.0,41032.0,37466.0,31827.0,4
+AGRIC_3,Agricultural commodities - year ended 30 June,Area of holding - total area (ha),53566048.0,53438094.0,36056.0,36494.0,53822773.8,41032.0,37466.0,31827.0,3
+AGRIC_10,Agricultural commodities - year ended 30 June,Dairy cattle - total (no.),317523.0,323148.0,36056.0,36494.0,282659.1,41032.0,37466.0,31827.0,3
+AGRIC_11,Agricultural commodities - year ended 30 June,Meat cattle - total (no.),4665136.0,4674553.0,36056.0,36494.0,4147594.8,41032.0,37466.0,31827.0,3
+AGRIC_12,Agricultural commodities - year ended 30 June,Sheep and lambs - total (no.),25394950.0,25968194.0,36056.0,36494.0,24711533.7,41032.0,37466.0,31827.0,3
+AGRIC_13,Agricultural commodities - year ended 30 June,Pigs - total (no.),480371.0,488252.0,36056.0,36494.0,543335.5,41032.0,37466.0,31827.0,3
+AGRIC_19,Agricultural commodities - year ended 30 June,Meat chickens - total (no.),28499153.0,30107903.0,36056.0,36494.0,39149834.9,41032.0,37466.0,31827.0,3
+AGRIC_20,Agricultural commodities - year ended 30 June,Broadacre crops - total area (ha),59.9,5870061.0,36056.0,36494.0,7680246.8,41032.0,37466.0,31827.0,2
+AGRIC_21,Agricultural commodities - year ended 30 June,Vegetables - total area (ha),59.9,60.9,36056.0,36494.0,14142.5,41032.0,37466.0,31827.0,1
+AGRIC_22,Agricultural commodities - year ended 30 June,Orchard fruit trees and nut trees (produce intended for sale) - total area - (ha),59.9,60.9,36056.0,36494.0,56258.1,41032.0,37466.0,31827.0,1
+AGRIC_15,Gross value of agricultural production - year ended 30 June,Agricultural production - total gross value ($m),59.9,13085.8,36056.0,36494.0,18009.5,41032.0,37466.0,31827.0,2
+AGRIC_16,Gross value of agricultural production - year ended 30 June,Crops - total gross value ($m),59.9,6897.2,36056.0,36494.0,11063.3,41032.0,37466.0,31827.0,2
+AGRIC_17,Gross value of agricultural production - year ended 30 June,Livestock slaughtered and other disposals - total gross value ($m),59.9,4390.7,36056.0,36494.0,5044.7,41032.0,37466.0,31827.0,2
+EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",2.2,2.1,36056.0,36494.0,2.0,41032.0,37466.0,31827.0,3
+EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),1.0,0.9,36056.0,36494.0,1.0,41032.0,37466.0,31827.0,3
+EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),8.4,5.8,36056.0,36494.0,5.5,41032.0,37466.0,31827.0,3
+EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.1,0.9,36056.0,36494.0,1.0,41032.0,37466.0,31827.0,3
+EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),7.3,8.4,36056.0,36494.0,8.6,41032.0,37466.0,31827.0,3
+EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),4.4,3.1,36056.0,36494.0,2.8,41032.0,37466.0,31827.0,3
+EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),10.3,9.7,36056.0,36494.0,9.0,41032.0,37466.0,31827.0,3
+EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),6.7,7.1,36056.0,36494.0,6.2,41032.0,37466.0,31827.0,3
+EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.9,4.7,36056.0,36494.0,4.6,41032.0,37466.0,31827.0,3
+EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),2.3,2.2,36056.0,36494.0,1.8,41032.0,37466.0,31827.0,3
+EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),5.0,4.9,36056.0,36494.0,5.3,41032.0,37466.0,31827.0,3
+EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.6,1.8,36056.0,36494.0,1.7,41032.0,37466.0,31827.0,3
+EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",7.9,8.1,36056.0,36494.0,8.9,41032.0,37466.0,31827.0,3
+EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.3,3.5,36056.0,36494.0,3.2,41032.0,37466.0,31827.0,3
+EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),6.1,6.0,36056.0,36494.0,6.1,41032.0,37466.0,31827.0,3
+EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),7.9,8.4,36056.0,36494.0,8.7,41032.0,37466.0,31827.0,3
+EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),11.6,12.5,36056.0,36494.0,14.4,41032.0,37466.0,31827.0,3
+EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.5,1.5,36056.0,36494.0,1.4,41032.0,37466.0,31827.0,3
+EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.7,3.7,36056.0,36494.0,3.4,41032.0,37466.0,31827.0,3
+EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.5,4.7,36056.0,36494.0,4.6,41032.0,37466.0,31827.0,3
+EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),3138332.0,3380336.0,36056.0,36494.0,3684158.0,41032.0,37466.0,31827.0,3
+DWELLSTOCK_2,Estimated dwelling stock - as at June quarter,Houses - additions (no.),59.9,60.9,32929.0,25924.0,23993.0,26310.0,37466.0,31827.0,4
+DWELLSTOCK_3,Estimated dwelling stock - as at June quarter,Houses - removals (no.),59.9,60.9,6010.0,8005.0,6678.0,8845.0,37466.0,31827.0,4
+DWELLSTOCK_4,Estimated dwelling stock - as at June quarter,Houses - total (no.),59.9,60.9,2109471.0,2127390.0,2144705.0,2162170.0,37466.0,31827.0,4
+DWELLSTOCK_5,Estimated dwelling stock - as at June quarter,Townhouses - additions (no.),59.9,60.9,9564.0,7109.0,8233.0,7135.0,37466.0,31827.0,4
+DWELLSTOCK_6,Estimated dwelling stock - as at June quarter,Townhouses - removals (no.),59.9,60.9,101.0,263.0,79.0,65.0,37466.0,31827.0,4
+DWELLSTOCK_7,Estimated dwelling stock - as at June quarter,Townhouses - total (no.),59.9,60.9,383156.0,390002.0,398156.0,405226.0,37466.0,31827.0,4
+DWELLSTOCK_8,Estimated dwelling stock - as at June quarter,Apartments - additions (no.),59.9,60.9,32120.0,26948.0,20325.0,12680.0,37466.0,31827.0,4
+DWELLSTOCK_9,Estimated dwelling stock - as at June quarter,Apartments - removals (no.),59.9,60.9,122.0,272.0,300.0,168.0,37466.0,31827.0,4
+DWELLSTOCK_10,Estimated dwelling stock - as at June quarter,Apartments - total (no.),59.9,60.9,738120.0,764796.0,784821.0,797333.0,37466.0,31827.0,4
+DWELLSTOCK_11,Estimated dwelling stock - as at June quarter,Total dwelling additions (no.),59.9,60.9,74725.0,59986.0,52559.0,46201.0,37466.0,31827.0,4
+DWELLSTOCK_12,Estimated dwelling stock - as at June quarter,Total dwelling removals (no.),59.9,60.9,6233.0,8540.0,7057.0,9078.0,37466.0,31827.0,4
+DWELLSTOCK_13,Estimated dwelling stock - as at June quarter,Total dwellings (no.),59.9,60.9,3239814.0,3291260.0,3336762.0,3373885.0,37466.0,31827.0,4
+PERSINC_2,Total personal income (weekly) - Persons aged 15 years and over - Census,$1-$499 per week (%),59.9,27.7,36056.0,36494.0,22.7,41032.0,37466.0,31827.0,2
+PERSINC_3,Total personal income (weekly) - Persons aged 15 years and over - Census,$500-$999 per week (%),59.9,22.8,36056.0,36494.0,21.9,41032.0,37466.0,31827.0,2
+PERSINC_4,Total personal income (weekly) - Persons aged 15 years and over - Census,$1000-$1999 per week (%),59.9,22.0,36056.0,36494.0,25.6,41032.0,37466.0,31827.0,2
+PERSINC_5,Total personal income (weekly) - Persons aged 15 years and over - Census,$2000-$2999 per week (%),59.9,5.3,36056.0,36494.0,7.9,41032.0,37466.0,31827.0,2
+PERSINC_6,Total personal income (weekly) - Persons aged 15 years and over - Census,$3000 or more per week (%),59.9,3.5,36056.0,36494.0,5.7,41032.0,37466.0,31827.0,2
+PERSINC_7,Total personal income (weekly) - Persons aged 15 years and over - Census,Nil income (%),59.9,9.3,36056.0,36494.0,8.5,41032.0,37466.0,31827.0,2
+PERSINC_8,Total personal income (weekly) - Persons aged 15 years and over - Census,Negative income (%),59.9,0.5,36056.0,36494.0,0.7,41032.0,37466.0,31827.0,2
+PERSINC_9,Total personal income (weekly) - Persons aged 15 years and over - Census,Income inadequately described or not stated (%),59.9,8.9,36056.0,36494.0,7.2,41032.0,37466.0,31827.0,2
+EQUIV_2,Equivalised total household income (weekly) - Census,Median equivalised total household income (weekly) ($),756.0,891.0,36056.0,36494.0,1096.0,41032.0,37466.0,31827.0,3
+EQUIV_3,Equivalised total household income (weekly) - Census,$1-$499 per week (%),59.9,21.0,36056.0,36494.0,15.8,41032.0,37466.0,31827.0,2
+EQUIV_4,Equivalised total household income (weekly) - Census,$500-$999 per week (%),59.9,27.7,36056.0,36494.0,24.8,41032.0,37466.0,31827.0,2
+EQUIV_5,Equivalised total household income (weekly) - Census,$1000-$1999 per week (%),59.9,28.7,36056.0,36494.0,33.5,41032.0,37466.0,31827.0,2
+EQUIV_6,Equivalised total household income (weekly) - Census,$2000-$2999 per week (%),59.9,7.4,36056.0,36494.0,11.3,41032.0,37466.0,31827.0,2
+EQUIV_7,Equivalised total household income (weekly) - Census,$3000 or more per week (%),59.9,3.4,36056.0,36494.0,6.3,41032.0,37466.0,31827.0,2
+EQUIV_8,Equivalised total household income (weekly) - Census,Nil income (%),59.9,1.6,36056.0,36494.0,1.9,41032.0,37466.0,31827.0,2
+EQUIV_9,Equivalised total household income (weekly) - Census,Partial income stated (%),59.9,7.7,36056.0,36494.0,4.5,41032.0,37466.0,31827.0,2
+EQUIV_10,Equivalised total household income (weekly) - Census,All incomes not stated (%),59.9,2.4,36056.0,36494.0,1.8,41032.0,37466.0,31827.0,2
+PENSION_3,Selected Government pensions and allowances - at 30 June,Age pension - Department of Veterans' Affairs (no.),59.9,60.9,36056.0,783.0,722.0,795.0,817.0,818.0,5
+PENSION_4,Selected Government pensions and allowances - at 30 June,Service pension - Department of Veterans' Affairs (no.),59.9,60.9,36056.0,24495.0,21949.0,21557.0,20181.0,19029.0,5
+PENSION_5,Selected Government pensions and allowances - at 30 June,Income support supplement - Department of Veterans' Affairs (no.),59.9,60.9,36056.0,11681.0,9273.0,9084.0,7855.0,6839.0,5
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),59.9,60.9,4164609.0,4193441.0,4195471.0,4328284.0,37466.0,31827.0,4
+INCOME_20,Personal income in Australia - year ended 30 June,Employee income earners - median age (years),59.9,60.9,38.0,38.0,39.0,39.0,37466.0,31827.0,4
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),59.9,60.9,276433.8,288047.0,301434.4,321298.7,37466.0,31827.0,4
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),59.9,60.9,53104.0,54989.0,57891.0,58972.0,37466.0,31827.0,4
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),59.9,60.9,66377.0,68690.0,71848.0,74232.0,37466.0,31827.0,4
+INCOME_22,Personal income in Australia - year ended 30 June,Employee income as main source of income (%),59.9,60.9,79.7,79.7,80.0,80.4,37466.0,31827.0,4
+INCOME_7,Personal income in Australia - year ended 30 June,Own unincorporated business income earners (no.),59.9,60.9,673969.0,682600.0,703266.0,718056.0,37466.0,31827.0,4
+INCOME_23,Personal income in Australia - year ended 30 June,Own unincorporated business income earners - median age (years),59.9,60.9,46.0,46.0,46.0,46.0,37466.0,31827.0,4
+INCOME_6,Personal income in Australia - year ended 30 June,Total own unincorporated business income ($m),59.9,60.9,18181.3,17387.3,22186.0,22243.8,37466.0,31827.0,4
+INCOME_5,Personal income in Australia - year ended 30 June,Median own unincorporated business income ($),59.9,60.9,12576.0,11575.0,14650.0,12118.0,37466.0,31827.0,4
+INCOME_24,Personal income in Australia - year ended 30 June,Mean own unincorporated business income ($),59.9,60.9,26976.0,25472.0,31547.0,30978.0,37466.0,31827.0,4
+INCOME_25,Personal income in Australia - year ended 30 June,Own unincorporated business income as main source of income (%),59.9,60.9,6.8,6.9,7.3,7.0,37466.0,31827.0,4
+INCOME_10,Personal income in Australia - year ended 30 June,Investment income earners (no.),59.9,60.9,3219928.0,3140813.0,3105458.0,3156053.0,37466.0,31827.0,4
+INCOME_26,Personal income in Australia - year ended 30 June,Investment income earners - median age (years),59.9,60.9,44.0,45.0,45.0,45.0,37466.0,31827.0,4
+INCOME_9,Personal income in Australia - year ended 30 June,Total investment income ($m),59.9,60.9,31227.2,29439.4,31466.7,38594.0,37466.0,31827.0,4
+INCOME_8,Personal income in Australia - year ended 30 June,Median investment income ($),59.9,60.9,204.0,166.0,121.0,122.0,37466.0,31827.0,4
+INCOME_27,Personal income in Australia - year ended 30 June,Mean investment income ($),59.9,60.9,9698.0,9373.0,10133.0,12229.0,37466.0,31827.0,4
+INCOME_28,Personal income in Australia - year ended 30 June,Investment income as main source of income (%),59.9,60.9,11.7,11.5,10.9,10.9,37466.0,31827.0,4
+INCOME_13,Personal income in Australia - year ended 30 June,Superannuation and annuity income earners (no.),59.9,60.9,99690.0,97468.0,86229.0,84104.0,37466.0,31827.0,4
+INCOME_29,Personal income in Australia - year ended 30 June,Superannuation and annuity income earners - median age (years),59.9,60.9,59.0,59.0,60.0,60.0,37466.0,31827.0,4
+INCOME_12,Personal income in Australia - year ended 30 June,Total superannuation and annuity income ($m),59.9,60.9,3130.5,3043.1,3010.9,3008.5,37466.0,31827.0,4
+INCOME_11,Personal income in Australia - year ended 30 June,Median superannuation and annuity income ($),59.9,60.9,21195.0,21120.0,23872.0,25000.0,37466.0,31827.0,4
+INCOME_30,Personal income in Australia - year ended 30 June,Mean superannuation and annuity income ($),59.9,60.9,31402.0,31222.0,34918.0,35771.0,37466.0,31827.0,4
+INCOME_31,Personal income in Australia - year ended 30 June,Superannuation and annuity income as main source of income (%),59.9,60.9,1.2,1.2,1.1,1.1,37466.0,31827.0,4
+INCOME_19,Personal income in Australia - year ended 30 June,Total income earners (excl. Government pensions and allowances) (no.),59.9,60.9,5000145.0,5035692.0,5018669.0,5142655.0,37466.0,31827.0,4
+INCOME_35,Personal income in Australia - year ended 30 June,Total income earners (excl. Government pensions and allowances) - median age (years),59.9,60.9,41.0,41.0,41.0,41.0,37466.0,31827.0,4
+INCOME_18,Personal income in Australia - year ended 30 June,Total income (excl. Government pensions and allowances) ($m),59.9,60.9,331559.5,340799.7,360937.7,388326.9,37466.0,31827.0,4
+INCOME_17,Personal income in Australia - year ended 30 June,Median total income (excl. Government pensions and allowances) ($),59.9,60.9,49522.0,50567.0,53905.0,55105.0,37466.0,31827.0,4
+INCOME_36,Personal income in Australia - year ended 30 June,Mean total income (excl. Government pensions and allowances) ($),59.9,60.9,66310.0,67677.0,71919.0,75511.0,37466.0,31827.0,4
+CAPGAINS_1,Gross capital gains - year ended 30 June,Persons who reported gross capital gains (no.),59.9,60.9,310726.0,352575.0,494234.0,552513.0,37466.0,31827.0,4
+CAPGAINS_2,Gross capital gains - year ended 30 June,Total value of gross capital gains ($m),59.9,60.9,17542.6,18260.6,30265.7,42375.2,37466.0,31827.0,4
+CAPGAINS_3,Gross capital gains - year ended 30 June,Median value of gross capital gains ($),59.9,60.9,2956.0,2944.0,2902.0,2940.0,37466.0,31827.0,4
+CAPGAINS_4,Gross capital gains - year ended 30 June,Mean value of gross capital gains ($),59.9,60.9,56457.0,51792.0,61238.0,76695.0,37466.0,31827.0,4
+PRESCH_2,Children enrolled in a preschool or preschool program (4 and 5 year olds),4 year olds enrolled in preschool or preschool program (no.),59.9,60.9,81703.0,81677.0,81925.0,79454.0,80604.0,31827.0,5
+PRESCH_3,Children enrolled in a preschool or preschool program (4 and 5 year olds),5 year olds enrolled in preschool or preschool program (no.),59.9,60.9,24187.0,23851.0,25911.0,24956.0,24888.0,31827.0,5
+PRESCH_5,Children enrolled in a preschool or preschool program (4 and 5 year olds),Children enrolled in preschool (no.),59.9,60.9,29530.0,28801.0,27323.0,26448.0,25326.0,31827.0,5
+PRESCH_6,Children enrolled in a preschool or preschool program (4 and 5 year olds),Children enrolled in preschool program within centre based day care (no.),59.9,60.9,69594.0,69944.0,71558.0,67366.0,67725.0,31827.0,5
+PRESCH_7,Children enrolled in a preschool or preschool program (4 and 5 year olds),Children enrolled across more than one provider type (no.),59.9,60.9,6765.0,6791.0,8956.0,10593.0,12441.0,31827.0,5
+PRESCH_8,Children enrolled in a preschool or preschool program (4 and 5 year olds),Children enrolled in a preschool or preschool program (no.),59.9,60.9,105890.0,105531.0,107840.0,104410.0,105489.0,31827.0,5
+PRESCH_10,Children attending a preschool or preschool program (4 and 5 year olds),Children attending preschool for less than 15 hours (no.),59.9,60.9,11807.0,11640.0,2956.45,11897.0,9335.0,31827.0,4
+PRESCH_11,Children attending a preschool or preschool program (4 and 5 year olds),Children attending preschool for 15 hours or more (no.),59.9,60.9,93396.0,92559.0,2956.45,91087.0,95220.0,31827.0,4
+HIGH_2,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 12 or equivalent (%),49.2,53.9,36056.0,36494.0,58.9,41032.0,37466.0,31827.0,3
+HIGH_3,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 11 or equivalent (%),5.0,4.9,36056.0,36494.0,4.9,41032.0,37466.0,31827.0,3
+HIGH_4,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 10 or equivalent (%),23.9,21.3,36056.0,36494.0,19.7,41032.0,37466.0,31827.0,3
+HIGH_5,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 9 or equivalent (%),6.6,5.5,36056.0,36494.0,4.7,41032.0,37466.0,31827.0,3
+HIGH_6,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Completed year 8 or below (%),5.6,4.5,36056.0,36494.0,3.7,41032.0,37466.0,31827.0,3
+HIGH_8,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Highest year of school completed not stated (%),8.6,8.8,36056.0,36494.0,6.9,41032.0,37466.0,31827.0,3
+HIGH_7,Highest year of school completed - Persons aged 15 years and over who are no longer attending primary or secondary school - Census,Did not go to school (%),1.0,1.1,36056.0,36494.0,1.2,41032.0,37466.0,31827.0,3
+SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),57.2,60.9,36056.0,36494.0,64.1,41032.0,37466.0,31827.0,3
+SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),4.3,5.7,36056.0,36494.0,7.4,41032.0,37466.0,31827.0,3
+SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.5,1.7,36056.0,36494.0,2.1,41032.0,37466.0,31827.0,3
+SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),14.1,16.0,36056.0,36494.0,18.4,41032.0,37466.0,31827.0,3
+SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),8.3,8.9,36056.0,36494.0,9.3,41032.0,37466.0,31827.0,3
+SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),17.7,18.1,36056.0,36494.0,18.1,41032.0,37466.0,31827.0,3
+SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.8,1.0,36056.0,36494.0,0.8,41032.0,37466.0,31827.0,3
+SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.7,9.6,36056.0,36494.0,8.0,41032.0,37466.0,31827.0,3
+FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.7,2.8,36056.0,36494.0,2.9,41032.0,37466.0,31827.0,3
+FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),3.1,3.4,36056.0,36494.0,4.0,41032.0,37466.0,31827.0,3
+FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),14.8,13.8,36056.0,36494.0,12.9,41032.0,37466.0,31827.0,3
+FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),5.4,5.3,36056.0,36494.0,5.3,41032.0,37466.0,31827.0,3
+FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",1.9,1.8,36056.0,36494.0,1.8,41032.0,37466.0,31827.0,3
+FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),8.5,8.8,36056.0,36494.0,9.5,41032.0,37466.0,31827.0,3
+FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.1,7.1,36056.0,36494.0,7.4,41032.0,37466.0,31827.0,3
+FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),20.3,21.1,36056.0,36494.0,21.8,41032.0,37466.0,31827.0,3
+FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),10.2,11.1,36056.0,36494.0,11.8,41032.0,37466.0,31827.0,3
+FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),3.6,3.8,36056.0,36494.0,4.2,41032.0,37466.0,31827.0,3
+FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",4.5,4.4,36056.0,36494.0,4.4,41032.0,37466.0,31827.0,3
+FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.1,0.3,36056.0,36494.0,0.2,41032.0,37466.0,31827.0,3
+FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.1,1.2,36056.0,36494.0,1.4,41032.0,37466.0,31827.0,3
+FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),16.6,14.9,36056.0,36494.0,12.4,41032.0,37466.0,31827.0,3
+YOUTH_2,Youth engagement in work/study - Persons aged 15-19 years - Census,Working full-time and studying part-time (%),3.0,2.3,36056.0,36494.0,2.5,41032.0,37466.0,31827.0,3
+YOUTH_3,Youth engagement in work/study - Persons aged 15-19 years - Census,Working part time and studying part-time (%),1.3,1.4,36056.0,36494.0,1.5,41032.0,37466.0,31827.0,3
+YOUTH_4,Youth engagement in work/study - Persons aged 15-19 years - Census,Working part-time and studying full-time (%),17.9,19.9,36056.0,36494.0,18.4,41032.0,37466.0,31827.0,3
+YOUTH_5,Youth engagement in work/study - Persons aged 15-19 years - Census,Working full-time (not studying) (%),6.0,5.0,36056.0,36494.0,4.1,41032.0,37466.0,31827.0,3
+YOUTH_6,Youth engagement in work/study - Persons aged 15-19 years - Census,Studying full-time (not working) (%),50.3,51.3,36056.0,36494.0,47.9,41032.0,37466.0,31827.0,3
+YOUTH_7,Youth engagement in work/study - Persons aged 15-19 years - Census,Working full-time and studying full-time (%),0.5,0.4,36056.0,36494.0,0.7,41032.0,37466.0,31827.0,3
+YOUTH_10,Youth engagement in work/study - Persons aged 15-19 years - Census,Working (away from work) and studying full-time (%),1.3,1.2,36056.0,36494.0,5.1,41032.0,37466.0,31827.0,3
+YOUTH_11,Youth engagement in work/study - Persons aged 15-19 years - Census,Other fully engaged (%),1.3,1.0,36056.0,36494.0,1.3,41032.0,37466.0,31827.0,3
+YOUTH_8,Youth engagement in work/study - Persons aged 15-19 years - Census,Total fully engaged (%),81.8,82.5,36056.0,36494.0,81.5,41032.0,37466.0,31827.0,3
+YOUTH_9,Youth engagement in work/study - Persons aged 15-19 years - Census,Total persons aged 15-19 years (no.),443415.0,448424.0,36056.0,36494.0,457896.0,41032.0,37466.0,31827.0,3
+LF_6,Labour force status - Persons aged 15 years and over - Census,Employed (no.),3138332.0,3380336.0,36056.0,36494.0,3684158.0,41032.0,37466.0,31827.0,3
+LF_3,Labour force status - Persons aged 15 years and over - Census,Unemployed (no.),196523.0,225552.0,36056.0,36494.0,189852.0,41032.0,37466.0,31827.0,3
+LF_2,Labour force status - Persons aged 15 years and over - Census,In the labour force (no.),3334854.0,3605885.0,36056.0,36494.0,3874012.0,41032.0,37466.0,31827.0,3
+LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),5.9,6.3,36056.0,36494.0,4.9,41032.0,37466.0,31827.0,3
+LF_5,Labour force status - Persons aged 15 years and over - Census,Participation rate (%),59.7,59.2,36056.0,36494.0,58.7,41032.0,37466.0,31827.0,3
+LF_7,Labour force status - Persons aged 15 years and over - Census,Not in the labour force (%),34.6,34.3,36056.0,36494.0,35.5,41032.0,37466.0,31827.0,3
+LF_8,Labour force status - Persons aged 15 years and over - Census,Labour force status not stated (%),5.7,6.6,36056.0,36494.0,5.9,41032.0,37466.0,31827.0,3
+LF_9,Labour force status - Persons aged 15 years and over - Census,Total persons aged 15 years and over (no.),5585148.0,6093897.0,36056.0,36494.0,6602157.0,41032.0,37466.0,31827.0,3
+HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),59.9,60.9,256082.0,319572.0,344339.0,348582.0,37466.0,31827.0,4
+LEED_2,Jobs in Australia - year ended 30 June,Number of jobs held by females,59.9,60.9,3098895.0,3030205.0,3173525.0,3446628.0,37466.0,31827.0,4
+LEED_3,Jobs in Australia - year ended 30 June,Number of jobs held by males,59.9,60.9,3278550.0,3232953.0,3318188.0,3519659.0,37466.0,31827.0,4
+LEED_4,Jobs in Australia - year ended 30 June,Number of jobs,59.9,60.9,6377449.0,6263155.0,6495827.0,6970173.0,37466.0,31827.0,4
+LEED_5,Jobs in Australia - year ended 30 June,"Number of employee jobs - agriculture, forestry and fishing",59.9,60.9,90032.0,85810.0,87636.0,84365.0,37466.0,31827.0,4
+LEED_6,Jobs in Australia - year ended 30 June,Number of employee jobs - mining,59.9,60.9,34169.0,35753.0,34595.0,36754.0,37466.0,31827.0,4
+LEED_7,Jobs in Australia - year ended 30 June,Number of employee jobs - manufacturing,59.9,60.9,295992.0,282964.0,293094.0,300953.0,37466.0,31827.0,4
+LEED_8,Jobs in Australia - year ended 30 June,"Number of employee jobs - electricity, gas, water and waste services",59.9,60.9,37317.0,39048.0,39557.0,41032.0,37466.0,31827.0,4
+LEED_9,Jobs in Australia - year ended 30 June,Number of employee jobs - construction,59.9,60.9,365063.0,367418.0,382747.0,395320.0,37466.0,31827.0,4
+LEED_10,Jobs in Australia - year ended 30 June,Number of employee jobs - wholesale trade,59.9,60.9,240161.0,234714.0,238707.0,243129.0,37466.0,31827.0,4
+LEED_11,Jobs in Australia - year ended 30 June,Number of employee jobs - retail trade,59.9,60.9,517348.0,517141.0,542807.0,603227.0,37466.0,31827.0,4
+LEED_12,Jobs in Australia - year ended 30 June,Number of employee jobs - accommodation and food services,59.9,60.9,489525.0,502007.0,534389.0,577247.0,37466.0,31827.0,4
+LEED_13,Jobs in Australia - year ended 30 June,"Number of employee jobs - transport, postal and warehousing",59.9,60.9,194954.0,193318.0,196030.0,207761.0,37466.0,31827.0,4
+LEED_14,Jobs in Australia - year ended 30 June,Number of employee jobs - information media and telecommunications,59.9,60.9,109396.0,102724.0,108364.0,121837.0,37466.0,31827.0,4
+LEED_15,Jobs in Australia - year ended 30 June,Number of employee jobs - finance and insurance services,59.9,60.9,285640.0,298297.0,313836.0,356873.0,37466.0,31827.0,4
+LEED_16,Jobs in Australia - year ended 30 June,"Number of employee jobs - rental, hiring and real estate services",59.9,60.9,113725.0,107704.0,108817.0,112893.0,37466.0,31827.0,4
+LEED_17,Jobs in Australia - year ended 30 June,"Number of employee jobs - professional, scientific and technical services",59.9,60.9,479973.0,470627.0,487015.0,527345.0,37466.0,31827.0,4
+LEED_18,Jobs in Australia - year ended 30 June,Number of employee jobs - administrative and support services,59.9,60.9,547545.0,523466.0,522394.0,576754.0,37466.0,31827.0,4
+LEED_19,Jobs in Australia - year ended 30 June,Number of employee jobs - public administration and safety,59.9,60.9,345262.0,332459.0,324783.0,381359.0,37466.0,31827.0,4
+LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,59.9,60.9,436626.0,455419.0,454663.0,471922.0,37466.0,31827.0,4
+LEED_21,Jobs in Australia - year ended 30 June,Number of employee jobs - health care and social assistance,59.9,60.9,666223.0,542639.0,739476.0,803920.0,37466.0,31827.0,4
+LEED_22,Jobs in Australia - year ended 30 June,Number of employee jobs - arts and recreation services,59.9,60.9,88800.0,87591.0,89490.0,96103.0,37466.0,31827.0,4
+LEED_23,Jobs in Australia - year ended 30 June,Number of employee jobs - other services,59.9,60.9,168395.0,171586.0,180636.0,183891.0,37466.0,31827.0,4
+LEED_24,Jobs in Australia - year ended 30 June,Number of employee jobs - total,59.9,60.9,5703475.0,5580559.0,5792559.0,6252120.0,37466.0,31827.0,4
+EMP_OCC_2,Occupation of employed persons - Persons aged 15 years and over - Census,Managers (%),13.3,13.5,36056.0,36494.0,14.6,41032.0,37466.0,31827.0,3
+EMP_OCC_3,Occupation of employed persons - Persons aged 15 years and over - Census,Professionals (%),22.7,23.6,36056.0,36494.0,25.8,41032.0,37466.0,31827.0,3
+EMP_OCC_4,Occupation of employed persons - Persons aged 15 years and over - Census,Technicians and trades workers (%),13.2,12.7,36056.0,36494.0,11.9,41032.0,37466.0,31827.0,3
+EMP_OCC_5,Occupation of employed persons - Persons aged 15 years and over - Census,Community and personal service workers (%),9.5,10.4,36056.0,36494.0,10.6,41032.0,37466.0,31827.0,3
+EMP_OCC_6,Occupation of employed persons - Persons aged 15 years and over - Census,Clerical and administrative workers (%),15.1,13.8,36056.0,36494.0,13.0,41032.0,37466.0,31827.0,3
+EMP_OCC_7,Occupation of employed persons - Persons aged 15 years and over - Census,Sales workers (%),9.3,9.2,36056.0,36494.0,8.0,41032.0,37466.0,31827.0,3
+EMP_OCC_8,Occupation of employed persons - Persons aged 15 years and over - Census,Machinery operators and drivers (%),6.4,6.1,36056.0,36494.0,6.0,41032.0,37466.0,31827.0,3
+EMP_OCC_9,Occupation of employed persons - Persons aged 15 years and over - Census,Labourers (%),8.7,8.8,36056.0,36494.0,8.2,41032.0,37466.0,31827.0,3
+EMP_OCC_10,Occupation of employed persons - Persons aged 15 years and over - Census,Occupation inadequately described or not stated (%),1.8,1.8,36056.0,36494.0,1.9,41032.0,37466.0,31827.0,3
+LTHLTH_2,Long-term health conditions - Census,Arthritis (%),59.9,60.9,36056.0,36494.0,8.4,41032.0,37466.0,31827.0,1
+LTHLTH_3,Long-term health conditions - Census,Asthma (%),59.9,60.9,36056.0,36494.0,7.8,41032.0,37466.0,31827.0,1
+LTHLTH_4,Long-term health conditions - Census,Cancer (including remission) (%),59.9,60.9,36056.0,36494.0,2.8,41032.0,37466.0,31827.0,1
+LTHLTH_5,Long-term health conditions - Census,Dementia (including Alzheimer's) (%),59.9,60.9,36056.0,36494.0,0.8,41032.0,37466.0,31827.0,1
+LTHLTH_6,Long-term health conditions - Census,Diabetes (excluding gestational diabetes) (%),59.9,60.9,36056.0,36494.0,4.8,41032.0,37466.0,31827.0,1
+LTHLTH_7,Long-term health conditions - Census,Heart disease (including heart attack or angina) (%),59.9,60.9,36056.0,36494.0,3.9,41032.0,37466.0,31827.0,1
+LTHLTH_8,Long-term health conditions - Census,Kidney disease (%),59.9,60.9,36056.0,36494.0,1.0,41032.0,37466.0,31827.0,1
+LTHLTH_9,Long-term health conditions - Census,Lung condition (including COPD or emphysema) (%),59.9,60.9,36056.0,36494.0,1.7,41032.0,37466.0,31827.0,1
+LTHLTH_10,Long-term health conditions - Census,Mental health condition (including depression or anxiety) (%),59.9,60.9,36056.0,36494.0,8.0,41032.0,37466.0,31827.0,1
+LTHLTH_11,Long-term health conditions - Census,Stroke (%),59.9,60.9,36056.0,36494.0,0.9,41032.0,37466.0,31827.0,1
+LTHLTH_12,Long-term health conditions - Census,Other long-term health condition(s) (%),59.9,60.9,36056.0,36494.0,7.8,41032.0,37466.0,31827.0,1
+LTHLTH_13,Long-term health conditions - Census,No long-term health condition(s) (%),59.9,60.9,36056.0,36494.0,61.0,41032.0,37466.0,31827.0,1
+ACTIV_3,Core activity need for assistance - Census,Persons who have need for assistance with core activities (no.),338365.0,402049.0,36056.0,36494.0,464712.0,41032.0,37466.0,31827.0,3
+ACTIV_2,Core activity need for assistance - Census,Persons who have need for assistance with core activities (%),4.9,5.4,36056.0,36494.0,5.8,41032.0,37466.0,31827.0,3
+PRIVATE_2,Private health insurance - year ended 30 June,Persons who reported having private health insurance (no.),59.9,60.9,2681569.0,2724637.0,2760933.0,2841811.0,37466.0,31827.0,4
+HHTYPE_2,Household composition - Occupied private dwellings - Census,Lone person households (no.),599153.0,620777.0,36056.0,36494.0,723716.0,41032.0,37466.0,31827.0,3
+HHTYPE_3,Household composition - Occupied private dwellings - Census,Group households (no.),94751.0,109005.0,36056.0,36494.0,111646.0,41032.0,37466.0,31827.0,3
+HHTYPE_4,Household composition - Occupied private dwellings - Census,Family households (no.),1777399.0,1874525.0,36056.0,36494.0,2065107.0,41032.0,37466.0,31827.0,3
+HHTYPE_5,Household composition - Occupied private dwellings - Census,Total households (excluding visitor only and other non-classifiable households)  (no.),2471298.0,2604311.0,36056.0,36494.0,2900468.0,41032.0,37466.0,31827.0,3
+HHTYPE_6,Household composition - Occupied private dwellings - Census,Average household size (no. of persons),2.6,2.6,36056.0,36494.0,2.6,41032.0,37466.0,31827.0,3
+FAMILY_2,Family composition - Families in family households - Census,Couple families with children under 15 and/or dependent students (no.),676390.0,718365.0,36056.0,36494.0,775508.0,41032.0,37466.0,31827.0,3
+FAMILY_3,Family composition - Families in family households - Census,Couple families with non-dependent children only (no.),155466.0,168997.0,36056.0,36494.0,179076.0,41032.0,37466.0,31827.0,3
+FAMILY_4,Family composition - Families in family households - Census,Couple families without children (no.),669016.0,709525.0,36056.0,36494.0,809586.0,41032.0,37466.0,31827.0,3
+FAMILY_5,Family composition - Families in family households - Census,One parent families with children under 15 and/or dependent students (no.),193717.0,192622.0,36056.0,36494.0,205240.0,41032.0,37466.0,31827.0,3
+FAMILY_6,Family composition - Families in family households - Census,One parent families with non-dependent children only (no.),104187.0,118285.0,36056.0,36494.0,132495.0,41032.0,37466.0,31827.0,3
+FAMILY_7,Family composition - Families in family households - Census,Other families (no.),30783.0,32443.0,36056.0,36494.0,34061.0,41032.0,37466.0,31827.0,3
+FAMILY_8,Family composition - Families in family households - Census,Total families (no.),1829551.0,1940230.0,36056.0,36494.0,2135964.0,41032.0,37466.0,31827.0,3
+FAMILY_9,Family composition - Families in family households - Census,Average family size (no. of persons),3.0,3.0,36056.0,36494.0,3.0,41032.0,37466.0,31827.0,3
+MARRIAGE_2,Social marital status - Persons aged 15 years and over usually resident and present in the household on Census night,Married in a registered marriage (no.),2514382.0,2612629.0,36056.0,36494.0,2847938.0,41032.0,37466.0,31827.0,3
+MARRIAGE_3,Social marital status - Persons aged 15 years and over usually resident and present in the household on Census night,Married in a de facto marriage (no.),418721.0,506136.0,36056.0,36494.0,637050.0,41032.0,37466.0,31827.0,3
+MARRIAGE_4,Social marital status - Persons aged 15 years and over usually resident and present in the household on Census night,Not married (no.),2096246.0,2290884.0,36056.0,36494.0,2532544.0,41032.0,37466.0,31827.0,3
+MARRIAGE_5,Registered marital status - Persons aged 15 years and over - Census,Married (%),49.4,48.7,36056.0,36494.0,47.3,41032.0,37466.0,31827.0,3
+MARRIAGE_6,Registered marital status - Persons aged 15 years and over - Census,Never married (%),33.5,34.4,36056.0,36494.0,35.7,41032.0,37466.0,31827.0,3
+MARRIAGE_7,Registered marital status - Persons aged 15 years and over - Census,Widowed (%),5.8,5.4,36056.0,36494.0,5.1,41032.0,37466.0,31827.0,3
+MARRIAGE_8,Registered marital status - Persons aged 15 years and over - Census,Divorced (%),8.3,8.4,36056.0,36494.0,8.6,41032.0,37466.0,31827.0,3
+MARRIAGE_9,Registered marital status - Persons aged 15 years and over - Census,Separated (%),3.1,3.1,36056.0,36494.0,3.2,41032.0,37466.0,31827.0,3
+CHILD_2,Average number of children per family - Families with children - Census,Average number of children per family (for families with children) (no.),1.9,1.9,36056.0,36494.0,1.8,41032.0,37466.0,31827.0,3
+CHILDCAR_2,Unpaid child care - Persons aged 15 years and over - Census,Persons who did not provide child care (%),64.6,64.5,36056.0,36494.0,68.3,41032.0,37466.0,31827.0,3
+CHILDCAR_3,Unpaid child care - Persons aged 15 years and over - Census,Persons who cared for own child/children (%),19.6,19.6,36056.0,36494.0,20.2,41032.0,37466.0,31827.0,3
+CHILDCAR_4,Unpaid child care - Persons aged 15 years and over - Census,Persons who cared for other child/children (%),7.1,6.9,36056.0,36494.0,4.7,41032.0,37466.0,31827.0,3
+CHILDCAR_5,Unpaid child care - Persons aged 15 years and over - Census,Persons who cared for own child/children and other child/children (%),0.8,0.7,36056.0,36494.0,6.5,41032.0,37466.0,31827.0,3
+CHILDCAR_6,Unpaid child care - Persons aged 15 years and over - Census,Unpaid child care not stated (%),7.9,8.3,36056.0,36494.0,0.5,41032.0,37466.0,31827.0,3
+UNPAIDW_2,Unpaid work - Persons aged 15 years and over - Census,Persons who provided unpaid assistance to a person with a disability (%),11.4,11.6,36056.0,36494.0,11.5,41032.0,37466.0,31827.0,3
+UNPAIDW_3,Unpaid work - Persons aged 15 years and over - Census,Persons undertaking voluntary work for an organisation or group (%),16.9,18.1,36056.0,36494.0,13.0,41032.0,37466.0,31827.0,3
+DWELL_2,Dwelling structure - Occupied private dwellings - Census,Separate house (no.),1717699.0,1729819.0,36056.0,36494.0,1902734.0,41032.0,37466.0,31827.0,3
+DWELL_3,Dwelling structure - Occupied private dwellings - Census,"Semi-detached, row or terrace house, townhouse etc. (no.)",263924.0,317446.0,36056.0,36494.0,340582.0,41032.0,37466.0,31827.0,3
+DWELL_4,Dwelling structure - Occupied private dwellings - Census,Flat or apartment (no.),465192.0,519380.0,36056.0,36494.0,630030.0,41032.0,37466.0,31827.0,3
+DWELL_5,Dwelling structure - Occupied private dwellings - Census,Other dwelling (no.),21141.0,23585.0,36056.0,36494.0,19374.0,41032.0,37466.0,31827.0,3
+DWELL_6,Dwelling structure - Occupied private dwellings - Census,Dwelling structure not stated (no.),3340.0,14073.0,36056.0,36494.0,7754.0,41032.0,37466.0,31827.0,3
+DWELL_7,Dwelling structure - Occupied private dwellings - Census,Total occupied private dwellings (excluding visitor only and other non-classifiable households) (no.),2471298.0,2604311.0,36056.0,36494.0,2900468.0,41032.0,37466.0,31827.0,3
+TENURE_7,Tenure type - Occupied private dwellings - Census,Owned outright (no.),820001.0,839663.0,36056.0,36494.0,914537.0,41032.0,37466.0,31827.0,3
+TENURE_8,Tenure type - Occupied private dwellings - Census,Owned with a mortgage (no.),824292.0,840004.0,36056.0,36494.0,942804.0,41032.0,37466.0,31827.0,3
+TENURE_9,Tenure type - Occupied private dwellings - Census,Rented (no.),718679.0,803075.0,36056.0,36494.0,944585.0,41032.0,37466.0,31827.0,3
+TENURE_10,Tenure type - Occupied private dwellings - Census,Other tenure type (no.),44790.0,47810.0,36056.0,36494.0,55931.0,41032.0,37466.0,31827.0,3
+TENURE_11,Tenure type - Occupied private dwellings - Census,Tenure type not stated (no.),63533.0,73758.0,36056.0,36494.0,42613.0,41032.0,37466.0,31827.0,3
+TENURE_2,Tenure type - Occupied private dwellings - Census,Owned outright (%),33.2,32.2,36056.0,36494.0,31.5,41032.0,37466.0,31827.0,3
+TENURE_3,Tenure type - Occupied private dwellings - Census,Owned with a mortgage (%),33.4,32.3,36056.0,36494.0,32.5,41032.0,37466.0,31827.0,3
+TENURE_4,Tenure type - Occupied private dwellings - Census,Rented (%),29.1,30.8,36056.0,36494.0,32.6,41032.0,37466.0,31827.0,3
+TENURE_5,Tenure type - Occupied private dwellings - Census,Other tenure type (%),1.8,1.8,36056.0,36494.0,1.9,41032.0,37466.0,31827.0,3
+TENURE_6,Tenure type - Occupied private dwellings - Census,Tenure type not stated (%),2.6,2.8,36056.0,36494.0,1.5,41032.0,37466.0,31827.0,3
+HOUSE_2,Housing suitability - Occupied private dwellings - Census,Dwellings with extra bedrooms needed (no.),59.9,131053.0,36056.0,36494.0,129234.0,41032.0,37466.0,31827.0,2
+HOUSE_3,Housing suitability - Occupied private dwellings - Census,Dwellings with bedrooms spare (no.),59.9,1764811.0,36056.0,36494.0,2041677.0,41032.0,37466.0,31827.0,2
+HOUSE_4,Housing suitability - Occupied private dwellings - Census,Dwellings with no bedrooms needed or spare (no.),59.9,547588.0,36056.0,36494.0,612649.0,41032.0,37466.0,31827.0,2
+HOMELESS_3,Homelessness - Census,Count of homeless persons (no.),27483.0,37692.0,36056.0,36494.0,34982.0,41032.0,37466.0,31827.0,3
+HOMELESS_2,Homelessness - Census,"Homeless persons per 10,000 persons (rate)",40.0,50.0,36056.0,36494.0,43.0,41032.0,37466.0,31827.0,3
+RENT_4,Rent and mortgage payments - Occupied private dwellings - Census,Median weekly household rental payment ($),300.0,386.0,36056.0,36494.0,420.0,41032.0,37466.0,31827.0,3
+RENT_5,Rent and mortgage payments - Occupied private dwellings - Census,Median monthly household mortgage payment ($),1993.0,1986.0,36056.0,36494.0,2167.0,41032.0,37466.0,31827.0,3
+STRESS_10,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are less than or equal to 30% of imputed household income (no.),59.9,60.9,36056.0,36494.0,677486.0,41032.0,37466.0,31827.0,1
+STRESS_11,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are more than 30% of imputed household income (no.),59.9,60.9,36056.0,36494.0,163060.0,41032.0,37466.0,31827.0,1
+STRESS_12,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are less than or equal to 30% of imputed household income (no.),59.9,60.9,36056.0,36494.0,529731.0,41032.0,37466.0,31827.0,1
+STRESS_13,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are more than 30% of imputed household income (no.),59.9,60.9,36056.0,36494.0,335404.0,41032.0,37466.0,31827.0,1
+STRESS_14,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are less than or equal to 30% of imputed household income (%),59.9,60.9,36056.0,36494.0,71.9,41032.0,37466.0,31827.0,1
+STRESS_15,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are more than 30% of imputed household income (%),59.9,60.9,36056.0,36494.0,17.3,41032.0,37466.0,31827.0,1
+STRESS_16,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are less than or equal to 30% of imputed household income (%),59.9,60.9,36056.0,36494.0,56.1,41032.0,37466.0,31827.0,1
+STRESS_17,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are more than 30% of imputed household income (%),59.9,60.9,36056.0,36494.0,35.5,41032.0,37466.0,31827.0,1
+IHAD_2,Index of household advantage and disadvantage (IHAD) - Census,Households assigned to IHAD quartile 1 (most disadvantaged) (%),59.9,60.9,36056.0,36494.0,25.5,41032.0,37466.0,31827.0,1
+IHAD_3,Index of household advantage and disadvantage (IHAD) - Census,Households assigned to IHAD quartile 2 (%),59.9,60.9,36056.0,36494.0,24.0,41032.0,37466.0,31827.0,1
+IHAD_4,Index of household advantage and disadvantage (IHAD) - Census,Households assigned to IHAD quartile 3 (%),59.9,60.9,36056.0,36494.0,24.9,41032.0,37466.0,31827.0,1
+IHAD_5,Index of household advantage and disadvantage (IHAD) - Census,Households assigned to IHAD quartile 4 (most advantaged) (%),59.9,60.9,36056.0,36494.0,25.7,41032.0,37466.0,31827.0,1
+IHAD_6,Index of household advantage and disadvantage (IHAD) - Census,Census - Count of occupided private dwellings in scope for IHAD,59.9,60.9,36056.0,36494.0,2886037.0,41032.0,37466.0,31827.0,1
+IHAD_7,Index of household advantage and disadvantage (IHAD) - Census,Census - SEIFA Australia quartile ranking - index of relative socio-economic advantage and disadvantage (IRSAD),59.9,60.9,36056.0,36494.0,4.0,41032.0,37466.0,31827.0,1
+IHAD_8,Index of household advantage and disadvantage (IHAD) - Census,Census - Percent of total dwellings out of scope for IHAD (%),59.9,60.9,36056.0,36494.0,14.2,41032.0,37466.0,31827.0,1
+GIFTS2,Gifts and donations - year ended 30 June,Persons who made a gift or donation deduction (no.),59.9,60.9,1356430.0,1395237.0,1327686.0,1341218.0,37466.0,31827.0,4
+GIFTS3,Gifts and donations - year ended 30 June,Median value of gift and donation deductions ($),59.9,60.9,150.0,150.0,150.0,166.0,37466.0,31827.0,4
+WORK_TRAV_3,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - train (no.),193100.0,252787.0,36056.0,36494.0,62460.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_18,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - tram/light rail (no.),1261.0,2734.0,36056.0,36494.0,1351.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_4,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - bus (no.),116659.0,133903.0,36056.0,36494.0,34408.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_19,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - ferry (no.),6787.0,7753.0,36056.0,36494.0,1189.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_5,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - car (as driver) (no.),1807357.0,1953402.0,36056.0,36494.0,1587613.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_21,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - car (as passenger) (no.),157360.0,144818.0,36056.0,36494.0,117143.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_20,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - taxi or ride-share service (no.),7729.0,6699.0,36056.0,36494.0,4775.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_22,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - truck (no.),38585.0,32905.0,36056.0,36494.0,26390.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_6,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - motor bike/scooter (no.),19627.0,21159.0,36056.0,36494.0,14917.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_7,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - bicycle (no.),23359.0,23333.0,36056.0,36494.0,14466.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_8,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - other (no.),16261.0,18808.0,36056.0,36494.0,17233.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_9,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - walked only (no.),128337.0,130956.0,36056.0,36494.0,92368.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_10,Method of travel to work - Employed persons aged 15 years and over - Census,Used one method - total persons (no.),2516427.0,2729260.0,36056.0,36494.0,1974324.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_12,Method of travel to work - Employed persons aged 15 years and over - Census,Used more than one method - total persons (no.),131117.0,160833.0,36056.0,36494.0,62758.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_23,Method of travel to work - Employed persons aged 15 years and over - Census,"Used at least one form of public transport (train, tram, bus, ferry) (no.)",433014.0,540216.0,36056.0,36494.0,147492.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_24,Method of travel to work - Employed persons aged 15 years and over - Census,Travelled to work by car (as a driver or passenger) as at least one method of travel (no.),2038108.0,2182857.0,36056.0,36494.0,1737359.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_14,Method of travel to work - Employed persons aged 15 years and over - Census,Worked from home (no.),143130.0,163026.0,36056.0,36494.0,1141467.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_15,Method of travel to work - Employed persons aged 15 years and over - Census,Employed but did not go to work (no.),299428.0,293179.0,36056.0,36494.0,487646.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_16,Method of travel to work - Employed persons aged 15 years and over - Census,Method of travel not stated (no.),48225.0,34034.0,36056.0,36494.0,17966.0,41032.0,37466.0,31827.0,3
+WORK_TRAV_17,Method of travel to work - Employed persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),3138332.0,3380336.0,36056.0,36494.0,3684158.0,41032.0,37466.0,31827.0,3
+COMMUTE_2,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence (kms),59.9,16.3,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_3,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence (kms),59.9,9.8,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_4,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance to place of work (kms),59.9,16.1,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_5,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance to place of work (kms),59.9,9.7,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_6,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - females (kms),59.9,14.5,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_7,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - males (kms),59.9,17.9,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_8,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - females (kms),59.9,8.7,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_9,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - males (kms),59.9,11.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_10,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - managers (kms),59.9,17.3,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_11,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - professionals (kms),59.9,16.2,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_12,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - technicians and trades workers (kms),59.9,18.2,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_13,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - community and personal service Work (kms),59.9,14.7,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_14,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - clerical and administrative workers (kms),59.9,16.1,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_15,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - sales workers (kms),59.9,12.9,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_16,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - machinery operators and drivers (kms),59.9,20.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_17,Commuting to work - Persons aged 15 years and older - Census,Average commuting distance from place of usual residence - labourers (kms),59.9,15.4,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_18,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - managers (kms),59.9,10.3,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_19,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - professionals (kms),59.9,10.3,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_20,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - technicians and trades workers (kms),59.9,11.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_21,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - community and personal service work (kms),59.9,7.9,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_22,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - clerical and administrative workers (kms),59.9,10.6,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_23,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - sales workers (kms),59.9,7.2,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_24,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - machinery operators and drivers (kms),59.9,12.6,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+COMMUTE_25,Commuting to work - Persons aged 15 years and older - Census,Median commuting distance from place of usual residence - labourers (kms),59.9,8.6,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+VEHIC_2,Number of motor vehicles per household - Occupied private dwellings - Census,No motor vehicles (no.),258153.0,239627.0,36056.0,36494.0,262031.0,41032.0,37466.0,31827.0,3
+VEHIC_3,Number of motor vehicles per household - Occupied private dwellings - Census,One motor vehicle (no.),933951.0,946160.0,36056.0,36494.0,1096761.0,41032.0,37466.0,31827.0,3
+VEHIC_4,Number of motor vehicles per household - Occupied private dwellings - Census,Two motor vehicles (no.),840660.0,887849.0,36056.0,36494.0,989258.0,41032.0,37466.0,31827.0,3
+VEHIC_5,Number of motor vehicles per household - Occupied private dwellings - Census,Three motor vehicles (no.),245022.0,283045.0,36056.0,36494.0,321310.0,41032.0,37466.0,31827.0,3
+VEHIC_6,Number of motor vehicles per household - Occupied private dwellings - Census,Four or more motor vehicles (no.),115060.0,152006.0,36056.0,36494.0,187380.0,41032.0,37466.0,31827.0,3
+TOTMIG_3,Number of persons born overseas - Census,Males born overseas (no.),59.9,1005605.0,36056.0,36494.0,1145351.0,41032.0,37466.0,31827.0,2
+TOTMIG_2,Number of persons born overseas - Census,Females born overseas (no.),59.9,1062435.0,36056.0,36494.0,1217012.0,41032.0,37466.0,31827.0,2
+TOTMIG_4,Number of persons born overseas - Census,Persons born overseas (no.),59.9,2068036.0,36056.0,36494.0,2362364.0,41032.0,37466.0,31827.0,2
+AGEMIG_2,Age of persons born overseas - Census,0-4 years (no.),59.9,18677.0,36056.0,36494.0,13110.0,41032.0,37466.0,31827.0,2
+AGEMIG_3,Age of persons born overseas - Census,5-9 years (no.),59.9,38002.0,36056.0,36494.0,42943.0,41032.0,37466.0,31827.0,2
+AGEMIG_4,Age of persons born overseas - Census,10-14 years (no.),59.9,44826.0,36056.0,36494.0,52510.0,41032.0,37466.0,31827.0,2
+AGEMIG_5,Age of persons born overseas - Census,15-19 years (no.),59.9,64491.0,36056.0,36494.0,58090.0,41032.0,37466.0,31827.0,2
+AGEMIG_6,Age of persons born overseas - Census,20-24 years (no.),59.9,123151.0,36056.0,36494.0,113651.0,41032.0,37466.0,31827.0,2
+AGEMIG_7,Age of persons born overseas - Census,25-29 years (no.),59.9,180811.0,36056.0,36494.0,179074.0,41032.0,37466.0,31827.0,2
+AGEMIG_8,Age of persons born overseas - Census,30-34 years (no.),59.9,210614.0,36056.0,36494.0,232602.0,41032.0,37466.0,31827.0,2
+AGEMIG_9,Age of persons born overseas - Census,35-39 years (no.),59.9,189786.0,36056.0,36494.0,248763.0,41032.0,37466.0,31827.0,2
+AGEMIG_10,Age of persons born overseas - Census,40-44 years (no.),59.9,167196.0,36056.0,36494.0,212033.0,41032.0,37466.0,31827.0,2
+AGEMIG_11,Age of persons born overseas - Census,45-49 years (no.),59.9,162511.0,36056.0,36494.0,181407.0,41032.0,37466.0,31827.0,2
+AGEMIG_12,Age of persons born overseas - Census,50-54 years (no.),59.9,168809.0,36056.0,36494.0,173486.0,41032.0,37466.0,31827.0,2
+AGEMIG_13,Age of persons born overseas - Census,55-59 years (no.),59.9,155105.0,36056.0,36494.0,179674.0,41032.0,37466.0,31827.0,2
+AGEMIG_14,Age of persons born overseas - Census,60-64 years (no.),59.9,138531.0,36056.0,36494.0,165510.0,41032.0,37466.0,31827.0,2
+AGEMIG_15,Age of persons born overseas - Census,65-69 years (no.),59.9,132415.0,36056.0,36494.0,146988.0,41032.0,37466.0,31827.0,2
+AGEMIG_16,Age of persons born overseas - Census,70-74 years (no.),59.9,97546.0,36056.0,36494.0,137153.0,41032.0,37466.0,31827.0,2
+AGEMIG_17,Age of persons born overseas - Census,75-79 years (no.),59.9,74926.0,36056.0,36494.0,95742.0,41032.0,37466.0,31827.0,2
+AGEMIG_18,Age of persons born overseas - Census,80-84 years (no.),59.9,52276.0,36056.0,36494.0,67694.0,41032.0,37466.0,31827.0,2
+AGEMIG_19,Age of persons born overseas - Census,85 years and over (no.),59.9,48357.0,36056.0,36494.0,61937.0,41032.0,37466.0,31827.0,2
+ARRMIG_2,Year of arrival of persons born overseas - Census,Arrived within 5 years (%),59.9,17.8,36056.0,36494.0,14.9,41032.0,37466.0,31827.0,2
+ARRMIG_3,Year of arrival of persons born overseas - Census,Arrived 5-10 years ago (%),59.9,14.2,36056.0,36494.0,14.7,41032.0,37466.0,31827.0,2
+ARRMIG_4,Year of arrival of persons born overseas - Census,Arrived over 10 years ago (%),59.9,64.5,36056.0,36494.0,67.9,41032.0,37466.0,31827.0,2
+ARRMIG_5,Year of arrival of persons born overseas - Census,Arrival not stated (%),59.9,3.5,36056.0,36494.0,2.5,41032.0,37466.0,31827.0,2
+CITMIG_2,Citizenship status of persons born overseas - Census,Australian citizen (%),59.9,61.7,36056.0,36494.0,63.2,41032.0,37466.0,31827.0,2
+CITMIG_3,Citizenship status of persons born overseas - Census,Not an Australian citizen (%),59.9,36.6,36056.0,36494.0,36.2,41032.0,37466.0,31827.0,2
+CITMIG_4,Citizenship status of persons born overseas - Census,Citizenship not stated (%),59.9,1.7,36056.0,36494.0,0.6,41032.0,37466.0,31827.0,2
+RELMIG_2,Religious affiliation of persons born overseas - Census,Buddhism (%),59.9,7.3,36056.0,36494.0,7.2,41032.0,37466.0,31827.0,2
+RELMIG_3,Religious affiliation of persons born overseas - Census,Christianity (%),59.9,45.5,36056.0,36494.0,41.3,41032.0,37466.0,31827.0,2
+RELMIG_4,Religious affiliation of persons born overseas - Census,Hinduism (%),59.9,7.0,36056.0,36494.0,9.3,41032.0,37466.0,31827.0,2
+RELMIG_5,Religious affiliation of persons born overseas - Census,Islam (%),59.9,7.3,36056.0,36494.0,8.1,41032.0,37466.0,31827.0,2
+RELMIG_6,Religious affiliation of persons born overseas - Census,Judaism (%),59.9,0.9,36056.0,36494.0,0.8,41032.0,37466.0,31827.0,2
+RELMIG_7,Religious affiliation of persons born overseas - Census,Other religion (%),59.9,1.9,36056.0,36494.0,2.4,41032.0,37466.0,31827.0,2
+RELMIG_11,Religious affiliation of persons born overseas - Census,"Secular beliefs, other spiritual beliefs, no religion (%)",59.9,25.9,36056.0,36494.0,28.3,41032.0,37466.0,31827.0,2
+RELMIG_9,Religious affiliation of persons born overseas - Census,Religious affiliation inadequately described or not stated (%),59.9,4.2,36056.0,36494.0,2.7,41032.0,37466.0,31827.0,2
+ENGMIG_2,English proficiency of persons born overseas - Census,Proficient in English (%),59.9,85.9,36056.0,36494.0,86.4,41032.0,37466.0,31827.0,2
+ENGMIG_3,English proficiency of persons born overseas - Census,Not proficient in English (%),59.9,13.3,36056.0,36494.0,12.8,41032.0,37466.0,31827.0,2
+ENGMIG_4,English proficiency of persons born overseas - Census,English proficiency not stated (%),59.9,0.8,36056.0,36494.0,0.8,41032.0,37466.0,31827.0,2
+QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),59.9,10.4,36056.0,36494.0,13.2,41032.0,37466.0,31827.0,2
+QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),59.9,1.6,36056.0,36494.0,2.0,41032.0,37466.0,31827.0,2
+QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),59.9,22.5,36056.0,36494.0,25.0,41032.0,37466.0,31827.0,2
+QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),59.9,9.8,36056.0,36494.0,10.4,41032.0,37466.0,31827.0,2
+QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),59.9,9.8,36056.0,36494.0,9.3,41032.0,37466.0,31827.0,2
+QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),59.9,36.0,36056.0,36494.0,31.0,41032.0,37466.0,31827.0,2
+QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),59.9,4.4,36056.0,36494.0,3.9,41032.0,37466.0,31827.0,2
+OCCMIG_2,Occupation of persons born overseas - Persons aged 15 years and over - Census,Managers (%),59.9,13.4,36056.0,36494.0,14.6,41032.0,37466.0,31827.0,2
+OCCMIG_3,Occupation of persons born overseas - Persons aged 15 years and over - Census,Professionals (%),59.9,27.2,36056.0,36494.0,30.2,41032.0,37466.0,31827.0,2
+OCCMIG_4,Occupation of persons born overseas - Persons aged 15 years and over - Census,Technicians and trades workers (%),59.9,11.3,36056.0,36494.0,9.7,41032.0,37466.0,31827.0,2
+OCCMIG_5,Occupation of persons born overseas - Persons aged 15 years and over - Census,Community and personal service workers (%),59.9,9.8,36056.0,36494.0,9.8,41032.0,37466.0,31827.0,2
+OCCMIG_6,Occupation of persons born overseas - Persons aged 15 years and over - Census,Clerical and administrative workers (%),59.9,12.7,36056.0,36494.0,12.1,41032.0,37466.0,31827.0,2
+OCCMIG_7,Occupation of persons born overseas - Persons aged 15 years and over - Census,Sales workers (%),59.9,7.5,36056.0,36494.0,6.5,41032.0,37466.0,31827.0,2
+OCCMIG_8,Occupation of persons born overseas - Persons aged 15 years and over - Census,Machinery operators and drivers (%),59.9,6.3,36056.0,36494.0,6.3,41032.0,37466.0,31827.0,2
+OCCMIG_9,Occupation of persons born overseas - Persons aged 15 years and over - Census,Labourers (%),59.9,9.7,36056.0,36494.0,8.6,41032.0,37466.0,31827.0,2
+OCCMIG_10,Occupation of persons born overseas - Persons aged 15 years and over - Census,Occupation inadequately described or not stated (%),59.9,2.0,36056.0,36494.0,2.1,41032.0,37466.0,31827.0,2
+OCCMIG_11,Occupation of persons born overseas - Persons aged 15 years and over - Census,Overseas born population employed (no.),59.9,1101291.0,36056.0,36494.0,1245943.0,41032.0,37466.0,31827.0,2
+LFMIG_6,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Employed (no.),59.9,1101291.0,36056.0,36494.0,1245943.0,41032.0,37466.0,31827.0,2
+LFMIG_3,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployed (no.),59.9,84858.0,36056.0,36494.0,77447.0,41032.0,37466.0,31827.0,2
+LFMIG_2,Labour force status of persons born overseas - Persons aged 15 years and over - Census,In the labour force (no.),59.9,1186147.0,36056.0,36494.0,1323392.0,41032.0,37466.0,31827.0,2
+LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),59.9,7.2,36056.0,36494.0,5.9,41032.0,37466.0,31827.0,2
+LFMIG_4,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Participation rate (%),59.9,60.3,36056.0,36494.0,58.7,41032.0,37466.0,31827.0,2
+LFMIG_11,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Not in the labour force (%),59.9,38.6,36056.0,36494.0,39.7,41032.0,37466.0,31827.0,2
+LFMIG_12,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Labour force status not stated (%),59.9,1.1,36056.0,36494.0,1.6,41032.0,37466.0,31827.0,2
+LFMIG_7,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Overseas born population aged 15 years and over (no.),59.9,1966527.0,36056.0,36494.0,2253797.0,41032.0,37466.0,31827.0,2
+INCMIG_2,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,$1-$499 per week (%),59.9,28.8,36056.0,36494.0,23.2,41032.0,37466.0,31827.0,2
+INCMIG_3,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,$500-$999 per week (%),59.9,22.7,36056.0,36494.0,22.4,41032.0,37466.0,31827.0,2
+INCMIG_4,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,$1000-$1999 per week (%),59.9,22.4,36056.0,36494.0,25.7,41032.0,37466.0,31827.0,2
+INCMIG_5,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,$2000-$2999 per week (%),59.9,5.7,36056.0,36494.0,8.3,41032.0,37466.0,31827.0,2
+INCMIG_6,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,$3000 or more per week (%),59.9,4.0,36056.0,36494.0,6.6,41032.0,37466.0,31827.0,2
+INCMIG_7,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,Nil income (%),59.9,12.8,36056.0,36494.0,10.5,41032.0,37466.0,31827.0,2
+INCMIG_8,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,Negative income (%),59.9,0.7,36056.0,36494.0,0.7,41032.0,37466.0,31827.0,2
+INCMIG_9,Total personal income (weekly) of persons born overseas - Persons aged 15 years and over - Census,Income inadequately described or not stated (%),59.9,2.9,36056.0,36494.0,2.5,41032.0,37466.0,31827.0,2
+LAND,Land area,Land area (ha),59.9,60.9,36056.0,36494.0,80079765.9,41032.0,37466.0,31827.0,1
+WATER_2,Water use on Australian farms - year ended 30 June,Area of agricultural land (ha),59.9,60.9,52333650.0,51279790.0,53822774.0,41032.0,37466.0,31827.0,3
+WATER_3,Water use on Australian farms - year ended 30 June,Area of irrigated agricultural land (ha),59.9,60.9,627314.0,365425.0,657693.0,41032.0,37466.0,31827.0,3
+WATER_4,Water use on Australian farms - year ended 30 June,Volume of water applied to irrigated agricultural land (ML),59.9,60.9,2493627.0,1280944.0,2707355.0,41032.0,37466.0,31827.0,3
+WATER_7,Water use on Australian farms - year ended 30 June,Application rate of water applied to irrigated agricultural land (ML/ha),59.9,60.9,4.0,3.5,4.1,41032.0,37466.0,31827.0,3
+PROTECTED_AREA_2,Protected land areas - year ended 30 June,Indigenous protected land areas (no.),59.9,10.0,36056.0,11.0,2956.45,11.0,37466.0,11.0,4
+PROTECTED_AREA_3,Protected land areas - year ended 30 June,National parks (no.),59.9,328.0,36056.0,331.0,2956.45,338.0,37466.0,352.0,4
+PROTECTED_AREA_4,Protected land areas - year ended 30 June,Nature reserves (no.),59.9,426.0,36056.0,426.0,2956.45,427.0,37466.0,429.0,4
+PROTECTED_AREA_5,Protected land areas - year ended 30 June,All other protected land areas (no.),59.9,178.0,36056.0,1368.0,2956.45,1574.0,37466.0,1865.0,4
+PROTECTED_AREA_6,Protected land areas - year ended 30 June,Total protected land areas (no.),59.9,942.0,36056.0,2136.0,2956.45,2350.0,37466.0,2657.0,4
+PROTECTED_AREA_7,Protected land areas - year ended 30 June,Indigenous protected land area (ha),59.9,15952.0,36056.0,37939.0,2956.45,37939.0,37466.0,37939.0,4
+PROTECTED_AREA_8,Protected land areas - year ended 30 June,National parks (ha),59.9,4308348.0,36056.0,4381223.0,2956.45,4747981.0,37466.0,4789832.0,4
+PROTECTED_AREA_9,Protected land areas - year ended 30 June,Nature reserves (ha),59.9,960551.0,36056.0,963219.0,2956.45,969635.0,37466.0,971046.0,4
+PROTECTED_AREA_10,Protected land areas - year ended 30 June,All other protected land areas (ha),59.9,2158337.0,36056.0,2308855.0,2956.45,2409127.0,37466.0,2561029.0,4
+PROTECTED_AREA_11,Protected land areas - year ended 30 June,Total protected land area (ha),59.9,7443188.0,36056.0,7691236.0,2956.45,8164683.0,37466.0,8359846.0,4
+PROTECTED_AREA_13,Protected land areas - year ended 30 June,National parks (%),59.9,5.4,36056.0,5.5,2956.45,5.9,37466.0,6.0,4
+PROTECTED_AREA_14,Protected land areas - year ended 30 June,Nature reserves (%),59.9,1.2,36056.0,1.2,2956.45,1.2,37466.0,1.2,4
+PROTECTED_AREA_15,Protected land areas - year ended 30 June,All other protected land areas (%),59.9,2.7,36056.0,2.9,2956.45,3.0,37466.0,3.2,4
+PROTECTED_AREA_16,Protected land areas - year ended 30 June,Total protected land area (%),59.9,9.3,36056.0,9.6,2956.45,10.2,37466.0,10.4,4
+SOLAR_7,Solar installations - year ended 31 December,Small-scale solar panel system installations (no.),59.9,60.9,77630.0,110788.0,110228.0,93082.0,105523.0,97580.0,6
+SOLAR_8,Solar installations - year ended 31 December,Solar water heater installations (no.),59.9,60.9,4635.0,3900.0,3650.0,3387.0,3094.0,2089.0,6
+LANDUSE_1,Land use experimental estimates - year ended 30 June,Nature conservation (ha),59.9,7962025.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_2,Land use experimental estimates - year ended 30 June,Managed resource protection (ha),59.9,108356.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_3,Land use experimental estimates - year ended 30 June,Other minimal use (ha),59.9,6460894.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_4,Land use experimental estimates - year ended 30 June,Grazing native vegetation (ha),59.9,37921500.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_5,Land use experimental estimates - year ended 30 June,Production native forests (ha),59.9,1024769.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_6,Land use experimental estimates - year ended 30 June,Grazing modified pastures (ha),59.9,11563331.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_7,Land use experimental estimates - year ended 30 June,Plantation forests (ha),59.9,519800.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_8,Land use experimental estimates - year ended 30 June,Dryland cropping (ha),59.9,9850256.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_9,Land use experimental estimates - year ended 30 June,Dryland horticulture (ha),59.9,29375.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_10,Land use experimental estimates - year ended 30 June,Irrigated pastures (ha),59.9,242162.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_11,Land use experimental estimates - year ended 30 June,Irrigated cropping (ha),59.9,574900.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_12,Land use experimental estimates - year ended 30 June,Irrigated horticulture (ha),59.9,67106.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_13,Land use experimental estimates - year ended 30 June,Urban intensive uses (ha),59.9,684281.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_14,Land use experimental estimates - year ended 30 June,Intensive horticulture and animal production (ha),59.9,30650.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_15,Land use experimental estimates - year ended 30 June,Rural residential and farm infrastructure (ha),59.9,459331.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_16,Land use experimental estimates - year ended 30 June,Mining and waste (ha),59.9,109431.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_17,Land use experimental estimates - year ended 30 June,Water (ha),59.9,2521688.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LANDUSE_19,Land use experimental estimates - year ended 30 June,Total land use (ha),59.9,80129856.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LCOVER_1,Land cover experimental estimates - year ended 31 December,Artificial surfaces (ha),59.9,76925.0,94188.0,83525.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_2,Land cover experimental estimates - year ended 31 December,Cultivated terrestrial vegetated: herbaceous (ha),59.9,21183044.0,8794425.0,20191119.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_3,Land cover experimental estimates - year ended 31 December,Natural terrestrial vegetated: herbaceous (ha),59.9,30520719.0,28119900.0,20548238.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_4,Land cover experimental estimates - year ended 31 December,Natural terrestrial vegetated: woody (ha),59.9,20824475.0,16311481.0,22633544.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_5,Land cover experimental estimates - year ended 31 December,Natural surfaces (ha),59.9,6924956.0,26574638.0,16261406.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_6,Land cover experimental estimates - year ended 31 December,Natural aquatic vegetated: herbaceous (ha),59.9,6.0,44.0,36494.0,2956.45,41032.0,37466.0,31827.0,2
+LCOVER_7,Land cover experimental estimates - year ended 31 December,Natural aquatic vegetated: woody (ha),59.9,7400.0,7094.0,7088.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_8,Land cover experimental estimates - year ended 31 December,Water: perennial (ha),59.9,208244.0,185956.0,201156.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_9,Land cover experimental estimates - year ended 31 December,Water: non-perennial (ha),59.9,377481.0,35188.0,196638.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_10,Land cover experimental estimates - year ended 31 December,Tidal area (ha),59.9,6600.0,6944.0,7144.0,2956.45,41032.0,37466.0,31827.0,3
+LCOVER_11,Land cover experimental estimates - year ended 31 December,Land cover not classified (ha),59.9,6.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LCOVER_12,Land cover experimental estimates - year ended 31 December,Total land cover (ha),59.9,80129856.0,80129856.0,80129856.0,2956.45,41032.0,37466.0,31827.0,3
+LTENURE_2,Land tenure experimental estimates - year ended 30 June,Freehold (ha),59.9,38171319.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_3,Land tenure experimental estimates - year ended 30 June,Freeholding lease (ha),59.9,663775.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_4,Land tenure experimental estimates - year ended 30 June,Pastoral perpetual lease (ha),59.9,29071556.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_5,Land tenure experimental estimates - year ended 30 June,Other perpetual lease (ha),59.9,547319.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_7,Land tenure experimental estimates - year ended 30 June,Other term lease (ha),59.9,11350.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_8,Land tenure experimental estimates - year ended 30 June,Other lease (ha),59.9,12156.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_9,Land tenure experimental estimates - year ended 30 June,Nature conservation reserve (ha),59.9,7080419.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_10,Land tenure experimental estimates - year ended 30 June,Multiple-use public forest (ha),59.9,2189712.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_11,Land tenure experimental estimates - year ended 30 June,Other Crown purposes (ha),59.9,1591712.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_12,Land tenure experimental estimates - year ended 30 June,Other Crown land (ha),59.9,398088.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_13,Land tenure experimental estimates - year ended 30 June,Land tenure not classified (ha),59.9,392450.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
+LTENURE_14,Land tenure experimental estimates - year ended 30 June,Total land tenure (ha),59.9,80129856.0,36056.0,36494.0,2956.45,41032.0,37466.0,31827.0,1
