@@ -13,21 +13,50 @@ params = {
     "f": "json"
 }
 
-response = requests.get(url, params=params)
+all_features = []
 
-print(response)
+offset = 0
 
-data = response.json()
+batch_size = 1000
 
-print(data.keys())
-features = data['features']
+while True:
+
+    params = {
+        "where": "1=1",
+        "geometry": "151.05,-33.85,151.18,-33.74",
+        "geometryType": "esriGeometryEnvelope",
+        "spatialRel": "esriSpatialRelIntersects",
+        "outFields": "*",
+        "returnGeometry": "true",
+        "f": "json",
+        "resultOffset": offset,
+        "resultRecordCount": batch_size
+    }
+
+    response = requests.get(url, params=params)
+
+    data = response.json()
+
+    features = data.get("features", [])
+
+    all_features.extend(features)
+
+    print("offset:", offset, "records:", len(features))
+
+    if len(features) < batch_size:
+        break
+
+    offset += batch_size
+
+
+
 
 print(len(features))
 print(features[0])
 
 rows = []
 
-for place in features:
+for place in all_features:
 
     name = place['attributes']['poiname']
 
